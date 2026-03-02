@@ -1,0 +1,234 @@
+# config/routes.yaml
+# Query routing + staged retrieval plans for a bash-tools RAG system.
+#
+# Notes:
+# - Router uses "keywords"/"regex" to pick a route.
+# - Planner executes stages in order; stop early if enough evidence is collected.
+# - Executor should run commands with cwd=TARGET_REPO and apply excludes (node_modules/.venv/etc).
+#
+# Recommended stop rule (in code): stop after a stage if you have >=2 relevant files
+# OR total non-empty output chars >= ~1500 (tune to your context budget).
+
+version: 1
+
+# Global settings (optional; can also live in settings.yaml)
+global:
+  exclude_globs:
+    - "!node_modules/**"
+    - "!.venv/**"
+    - "!dist/**"
+    - "!build/**"
+    - "!.git/**"
+    - "!__pycache__/**"
+    - "!*.min.*"
+  default_timeout_seconds: 8
+  max_output_chars_per_command: 9000
+  max_commands_per_query: 20
+
+routes:
+
+  deps:
+    description: "Identify project dependencies (Python/JS manifests)."
+    priority: 40
+    keywords:
+      - dependency
+      - dependencies
+      - requirements
+      - pyproject
+      - poetry
+      - pip
+      - package.json
+      - devdependencies
+      - lockfile
+    regex:
+      - "(?i)what\\s+dependencies"
+      - "(?i)python\\s+dependencies"
+      - "(?i)js\\s+dependencies"
+    stages:
+      - name: "Locate dependency manifests"
+        commands:
+          - "find . -maxdepth 6 \\( -name 'pyproject.toml' -o -name 'requirements*.txt' -o -name 'Pipfile' -o -name 'setup.cfg' -o -name 'poetry.lock' -o -name 'package.json' -o -name 'pnpm-lock.yaml' -o -name 'yarn.lock' -o -name 'package-lock.json' \\) | sed 's#^\\./##'"
+      - name: "Extract Python dependencies (if present)"
+        commands:
+          - "test -f pyproject.toml && sed -n '1,120p' pyproject.toml || true"
+          - "find . -maxdepth 4 -name 'pyproject.toml' | head -n 8 | xargs -I{} sh -c 'echo \"=== {} ===\"; sed -n \"1,80p\" {}' || true"
+          - "ls requirements*.txt 2>/dev/null | head -n 8 | xargs -I{} sh -c 'echo \"--- {}\"; sed -n \"1,180p\" {}' || true"
+          - "test -f setup.cfg && sed -n '1,100p' setup.cfg || true"
+          - "test -f Pipfile && sed -n '1,120p' Pipfile || true"
+      - name: "Extract JS dependencies (if present)"
+        commands:
+          - "test -f package.json && rg -n '\"dependencies\"|\"devDependencies\"|\"peerDependencies\"' package.json || true"
+      - name: "Fallback: search for dependency declarations"
+        commands:
+          - "rg -n \"\\[tool\\.poetry\\.dependencies\\]|\\[project\\]|install_requires|requirements\\.txt|package\\.json|devDependencies\" -S . || true"
+
+  entrypoint:
+    description: "Find the main entry point(s): app definition and runtime startup commands."
+    priority: 35
+    keywords:
+      - entry point
+      - entrypoint
+      - main file
+      - startup
+      - start command
+      - run the service
+      - uvicorn
+      - gunicorn
+      - __main__
+      - dockerfile
+      - docker-compose
+    regex:
+      - "(?i)main\\s+entry"
+      - "(?i)how\\s+to\\s+run"
+      - "(?i)where\\s+is\\s+the\\s+main"
+    stages:
+      - name: "Read Docker/entrypoint script contents"
+        commands:
+          - "find . -maxdepth 4 \\( -iname 'Dockerfile*' -o -iname '*entrypoint*.sh' -o -name 'Makefile' \\) | head -n 15 | xargs -I{} sh -c 'echo \"=== {} ===\"; sed -n \"1,80p\" {}' 2>/dev/null || true"
+          - "find . -maxdepth 4 \\( -iname 'docker-compose*.yml' -o -iname 'docker-compose*.yaml' \\) | head -n 5 | xargs -I{} sh -c 'echo \"=== {} ===\"; sed -n \"1,100p\" {}' 2>/dev/null || true"
+      - name: "Read Python app entry files (main.py, app.py)"
+        commands:
+          - "find . -maxdepth 6 \\( -name 'main.py' -o -name 'app.py' -o -name '__main__.py' \\) | head -n 10 | xargs -I{} sh -c 'echo \"=== {} ===\"; sed -n \"1,80p\" {}' 2>/dev/null || true"
+          - "rg -l \"FastAPI\\(|app\\s*=\\s*FastAPI\" -S . 2>/dev/null | head -n 5 | xargs -I{} sh -c 'echo \"=== {} ===\"; sed -n \"1,50p\" {}' 2>/dev/null || true"
+      - name: "Fallback: rg for uvicorn/FastAPI references"
+        commands:
+          - "rg -n \"uvicorn|FastAPI\\(|ENTRYPOINT|CMD\" -S . 2>/dev/null | head -n 50 || true"
+
+  repo_types:
+    description: "Summarize languages/file types used in the repository."
+    priority: 20
+    keywords:
+      - languages
+      - language
+      - file types
+      - extensions
+      - repo types
+      - repository use
+    regex:
+      - "(?i)what\\s+languages"
+      - "(?i)file\\s+types"
+      - "(?i)extensions"
+    stages:
+      - name: "Count file extensions (top)"
+        commands:
+          - "find . -type f | sed 's#^.*/##' | awk -F. 'NF>1{print tolower($NF)}' | sort | uniq -c | sort -nr | head -n 25"
+      - name: "Show key build/config files"
+        commands:
+          - "find . -maxdepth 4 \\( -name 'pyproject.toml' -o -name 'package.json' -o -name 'Dockerfile*' -o -name '*.yml' -o -name '*.yaml' -o -name '*.md' \\) | sed 's#^\\./##' | head -n 60"
+
+  auth_flow:
+    description: "Explain authentication/authorization flow: token validation -> identity -> permission checks."
+    priority: 50
+    keywords:
+      - auth
+      - authentication
+      - authorization
+      - jwt
+      - bearer
+      - token
+      - middleware
+      - verify
+      - validate
+      - permissions
+      - roles
+      - scopes
+    regex:
+      - "(?i)auth(entication|orization)\\s+flow"
+      - "(?i)token\\s+validation"
+      - "(?i)how\\s+does\\s+auth"
+    stages:
+      - name: "Locate auth-related modules and dependencies"
+        commands:
+          - "rg -n \"Authorization: Bearer|HTTPBearer|OAuth2|jwt|decode\\(|verify|validate|token\" -S . || true"
+          - "rg -n \"Depends\\(|Security\\(|middleware\" -S . || true"
+      - name: "Locate scope/role enforcement"
+        commands:
+          - "rg -n \"scope|scopes|roles?|permissions?\" -S . || true"
+      - name: "Extract focused context around likely auth functions"
+        commands:
+          # These are heuristic; if you find the key files in stage 1,
+          # your code can run targeted 'sed' around the returned line numbers.
+          - "rg -n \"def (authenticate|authorize|validate|verify).*|class .*Auth|class .*Security\" -S . || true"
+      - name: "Fallback: narrow to common backend dirs if present"
+        commands:
+          - "test -d backend && rg -n \"auth|jwt|token|scope|permission|Security\\(\" -S backend || true"
+          - "test -d src && rg -n \"auth|jwt|token|scope|permission|Security\\(\" -S src || true"
+
+  api_endpoints:
+    description: "List API endpoints and required scopes/permissions."
+    priority: 55
+    keywords:
+      - endpoints
+      - endpoint
+      - routes
+      - router
+      - api paths
+      - api endpoints
+      - scopes
+      - permissions
+      - required scopes
+    regex:
+      - "(?i)list\\s+.*endpoints"
+      - "(?i)api\\s+endpoints"
+      - "(?i)what\\s+routes"
+    stages:
+      - name: "Locate router definitions"
+        commands:
+          - "rg -n \"APIRouter\\(|router\\s*=\\s*APIRouter\" -S . || true"
+      - name: "List endpoints (decorators)"
+        commands:
+          - "rg -n \"router\\.(get|post|put|delete|patch)\\(\" -S . || true"
+          - "rg -n \"@(app|router)\\.(get|post|put|delete|patch)\\(\" -S . || true"
+      - name: "Locate scopes/permissions usage near endpoints"
+        commands:
+          - "rg -n \"Security\\(|scopes\\s*=\\s*\\[|permissions?\\s*=\\s*\\[\" -S . || true"
+      - name: "Fallback: focus common dirs"
+        commands:
+          - "test -d backend && rg -n \"router\\.(get|post|put|delete|patch)\\(|Security\\(|scopes\\s*=\\s*\\[\" -S backend || true"
+          - "test -d src && rg -n \"router\\.(get|post|put|delete|patch)\\(|Security\\(|scopes\\s*=\\s*\\[\" -S src || true"
+
+  add_oauth_provider:
+    description: "Describe how to add a new OAuth provider (e.g., Okta): interfaces, registry/factory, config, wiring."
+    priority: 60
+    keywords:
+      - oauth provider
+      - oauth
+      - okta
+      - add provider
+      - new provider
+      - implement provider
+      - register provider
+      - identity provider
+      - oidc
+      - openid
+    regex:
+      - "(?i)add\\s+support\\s+for\\s+.*oauth"
+      - "(?i)new\\s+oauth\\s+provider"
+      - "(?i)okta"
+      - "(?i)openid|oidc"
+    stages:
+      - name: "Find existing providers and wiring points"
+        commands:
+          - "rg -n \"provider|oauth|oidc|openid|Okta|Google|GitHub|Azure|Auth0\" -S . || true"
+      - name: "Find provider interface/abstract base"
+        commands:
+          - "rg -n \"class .*Provider|Protocol|ABC|abstractmethod|interface\" -S . || true"
+      - name: "Find registry/factory (selection by name/config)"
+        commands:
+          - "rg -n \"factory|get_provider|register_provider|providers\\s*=|providers\\[|PROVIDERS\" -S . || true"
+      - name: "Find config points (env vars / settings)"
+        commands:
+          - "rg -n \"CLIENT_ID|CLIENT_SECRET|issuer|well-known|JWKS|redirect_uri|callback\" -S . || true"
+      - name: "Fallback: focus backend/src dirs"
+        commands:
+          - "test -d backend && rg -n \"oauth|oidc|openid|provider|factory|register\" -S backend || true"
+          - "test -d src && rg -n \"oauth|oidc|openid|provider|factory|register\" -S src || true"
+
+  general_search:
+    description: "Fallback route for unknown questions; broad but constrained search."
+    priority: 0
+    keywords: []
+    stages:
+      - name: "Broad keyword search (constrained)"
+        commands:
+          - "rg -n \"${QUERY}\" -S . || true"

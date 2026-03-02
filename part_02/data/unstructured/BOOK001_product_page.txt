@@ -1,0 +1,71 @@
+========================================
+PYTHON PROGRAMMING GUIDE - PRODUCT PAGE
+========================================
+
+Product: Python Programming Guide
+Author: Dr. Sarah Mitchell
+Price: $44.99
+SKU: BOOK001
+Category: Books
+
+PRODUCT DESCRIPTION:
+Master Python programming from beginner to advanced with this comprehensive guide.
+Written by Dr. Sarah Mitchell, a computer science professor with 20 years of
+teaching experience, this book takes you on a journey from your first line of code
+to building real-world applications.
+
+Book Details:
+- Pages: 650
+- Format: Paperback (Hardcover also available)
+- Publisher: TechBooks Publishing
+- Publication Date: January 2024
+- Edition: 3rd Edition (Updated for Python 3.12)
+- ISBN: 978-1234567890
+
+What You'll Learn:
+- Python fundamentals (variables, data types, control structures)
+- Object-oriented programming concepts
+- File handling and data processing
+- Working with databases (SQLite, PostgreSQL)
+- Web development with Flask and Django
+- Data analysis with Pandas and NumPy
+- Machine learning basics with scikit-learn
+- Best practices and coding standards
+- 200+ practice exercises with solutions
+
+Includes:
+- Downloadable code examples
+- Access to online video tutorials
+- Chapter quizzes
+- Real-world project walkthroughs
+
+CUSTOMER REVIEWS:
+----------------------------------------
+
+Review 1 - Alex C. (Verified Purchase) - 5 stars
+"This book took me from zero programming knowledge to building my own web app in
+3 months. The explanations are clear, and the exercises really reinforce the
+concepts. Dr. Mitchell has a gift for making complex topics accessible."
+
+Review 2 - Jennifer W. (Verified Purchase) - 5 stars
+"As a self-taught programmer, I had gaps in my knowledge. This book filled them
+all. The OOP section finally made inheritance click for me. The projects at the end
+of each chapter are practical and relevant. Highly recommend!"
+
+Review 3 - Daniel K. (Verified Purchase) - 4 stars
+"Great content and well-structured. The only reason for 4 stars is some of the
+advanced chapters move a bit fast. But for beginners, the first 2/3 of the book
+is absolutely perfect. Worth the investment."
+
+Review 4 - Michelle P. (Verified Purchase) - 5 stars
+"I'm a teacher and I use this book for my high school programming class. Students
+love it! The examples are engaging and the progression is logical. The online
+resources are an excellent bonus."
+
+Review 5 - Ryan H. (Verified Purchase) - 4 stars
+"Solid programming book. Covers a lot of ground. Some sections feel rushed,
+especially machine learning - that topic really deserves its own book. But as an
+all-in-one Python guide, it's excellent value."
+
+Average Rating: 4.6/5 (2,234 reviews)
+----------------------------------------

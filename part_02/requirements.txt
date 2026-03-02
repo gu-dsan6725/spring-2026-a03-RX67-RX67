@@ -1,0 +1,15 @@
+# Part 2: Multi-Source RAG with Routing — dependencies
+# Install from part_02: pip install -r requirements.txt
+# Or from repo root: pip install -r part_02/requirements.txt
+
+# YAML config (settings.yaml, routes.yaml)
+PyYAML>=6.0.0
+
+# Structured data (CSV analytics over daily_sales.csv)
+pandas>=2.0.0
+
+# LLM backend (QAEngine) — supports OpenAI, Anthropic, Groq, etc. via litellm
+litellm>=1.0.0
+
+# Optional: load .env for API keys (OPENAI_API_KEY, GROQ_API_KEY, etc.)
+python-dotenv>=1.0.0

@@ -1,0 +1,98 @@
+routes:
+
+  # =========================
+  # 1️⃣  CSV ONLY
+  # =========================
+  csv_only:
+    description: >
+      Questions that require filtering, aggregation, or numerical computation
+      over structured sales data (daily_sales.csv).
+
+    source: csv
+
+    match:
+      keywords:
+        - revenue
+        - total revenue
+        - sales volume
+        - units sold
+        - highest sales
+        - region
+        - December
+        - October
+        - November
+        - how many
+        - total
+      regex:
+        - ".*(revenue|sales|units).*"
+        - ".*(December|October|November).*"
+
+    strategy:
+      type: structured_query
+      operations:
+        - filter
+        - groupby
+        - aggregate
+        - sort
+
+
+  # =========================
+  # 2️⃣  TEXT ONLY
+  # =========================
+  text_only:
+    description: >
+      Questions that require searching product descriptions,
+      specifications, or customer reviews in unstructured text.
+
+    source: text
+
+    match:
+      keywords:
+        - features
+        - key features
+        - specifications
+        - specs
+        - customers say
+        - reviews
+        - feedback
+        - ease of cleaning
+        - cleaning
+        - describe
+      regex:
+        - ".*(features|reviews|customers).*"
+        - ".*(ease|clean).*"
+
+    strategy:
+      type: keyword_search
+      top_k: 3
+
+
+  # =========================
+  # 3️⃣  BOTH (CSV + TEXT)
+  # =========================
+  both:
+    description: >
+      Questions that require combining sales performance (CSV)
+      and customer sentiment or product features (Text).
+
+    source: both
+
+    match:
+      keywords:
+        - best
+        - recommend
+        - highly rated
+        - sells well
+        - best customer reviews
+        - best selling
+        - top product
+        - popular
+      regex:
+        - ".*(best|recommend).*"
+        - ".*(rated).*"
+        - ".*(selling).*"
+
+    strategy:
+      type: multi_source
+      combine_method: structured_plus_text
+      text_top_k: 3

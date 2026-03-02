@@ -1,0 +1,1001 @@
+date,product_id,product_name,category,units_sold,unit_price,total_revenue,region
+2024-10-03,BOOK003,Mystery Novel Collection,Books,42,24.99,1049.58,Central
+2024-10-03,ELEC002,USB-C Fast Charger,Electronics,57,24.99,1424.43,Central
+2024-10-03,BOOK001,Python Programming Guide,Books,39,39.65,1546.35,West
+2024-10-03,ELEC003,Portable Power Bank 20000mAh,Electronics,22,49.99,1099.78,North
+2024-10-03,FOOD001,Organic Coffee Beans 1kg,Food & Grocery,11,24.99,274.89,North
+2024-10-03,ELEC003,Portable Power Bank 20000mAh,Electronics,19,49.99,949.81,West
+2024-10-03,HOME001,Stainless Steel Coffee Maker,Home & Kitchen,5,89.99,449.95,North
+2024-10-03,FOOD002,Protein Bars Box (12),Food & Grocery,2,29.99,59.98,Central
+2024-10-03,BOOK001,Python Programming Guide,Books,1,37.94,37.94,South
+2024-10-03,PETS001,Dog Food Premium 10kg,Pet Supplies,34,54.99,1869.66,Central
+2024-10-03,FOOD003,Green Tea Collection,Food & Grocery,42,19.99,839.58,East
+2024-10-03,ELEC003,Portable Power Bank 20000mAh,Electronics,13,49.99,649.87,South
+2024-10-03,OFFC001,Ergonomic Office Chair,Office Supplies,49,249.99,12249.51,East
+2024-10-03,TOYS001,Building Blocks Set 500pc,Toys & Games,37,39.99,1479.63,West
+2024-10-03,TOYS001,Building Blocks Set 500pc,Toys & Games,2,36.86,73.72,North
+2024-10-03,SPRT002,Resistance Bands Set,Sports & Outdoors,48,19.99,959.52,East
+2024-10-03,HOME003,Air Fryer 5.5L,Home & Kitchen,17,121.05,2057.85,North
+2024-10-03,FOOD003,Green Tea Collection,Food & Grocery,41,19.99,819.59,Central
+2024-10-04,ELEC001,Wireless Bluetooth Headphones,Electronics,16,64.21,1027.36,South
+2024-10-04,BEAU001,Vitamin C Serum,Beauty & Personal Care,25,28.99,724.75,Central
+2024-10-04,TOYS003,Remote Control Car,Toys & Games,23,49.99,1149.77,South
+2024-10-04,CLTH004,Denim Jeans Classic,Clothing,67,54.99,3684.33,West
+2024-10-04,CLTH001,Running Shoes Men,Clothing,25,89.99,2249.75,Central
+2024-10-04,BEAU001,Vitamin C Serum,Beauty & Personal Care,1,28.99,28.99,East
+2024-10-04,SPRT004,Camping Tent 4-Person,Sports & Outdoors,12,149.99,1799.88,Central
+2024-10-04,BOOK002,The Art of Cooking,Books,24,32.99,791.76,South
+2024-10-04,FOOD001,Organic Coffee Beans 1kg,Food & Grocery,7,20.85,145.95,North
+2024-10-04,ELEC002,USB-C Fast Charger,Electronics,55,24.99,1374.45,East
+2024-10-05,FOOD001,Organic Coffee Beans 1kg,Food & Grocery,16,24.99,399.84,North
+2024-10-05,PETS003,Pet Carrier Medium,Pet Supplies,39,33.91,1322.49,West
+2024-10-05,FOOD002,Protein Bars Box (12),Food & Grocery,27,29.99,809.73,Central
+2024-10-05,ELEC001,Wireless Bluetooth Headphones,Electronics,60,79.99,4799.4,East
+2024-10-05,TOYS001,Building Blocks Set 500pc,Toys & Games,8,39.99,319.92,South
+2024-10-05,BOOK003,Mystery Novel Collection,Books,43,24.99,1074.57,South
+2024-10-06,TOYS002,Board Game Strategy,Toys & Games,37,34.99,1294.63,South
+2024-10-06,HOME001,Stainless Steel Coffee Maker,Home & Kitchen,34,89.99,3059.66,South
+2024-10-06,ELEC004,Smart Watch Pro,Electronics,70,199.99,13999.3,South
+2024-10-06,ELEC002,USB-C Fast Charger,Electronics,3,24.99,74.97,East
+2024-10-06,SPRT002,Resistance Bands Set,Sports & Outdoors,4,19.99,79.96,East
+2024-10-06,FOOD002,Protein Bars Box (12),Food & Grocery,23,29.99,689.77,Central
+2024-10-06,PETS002,Cat Scratching Post,Pet Supplies,45,44.99,2024.55,Central
+2024-10-06,OFFC004,Wireless Mouse,Office Supplies,30,29.99,899.7,Central
+2024-10-06,CLTH001,Running Shoes Men,Clothing,57,89.99,5129.43,North
+2024-10-06,CLTH001,Running Shoes Men,Clothing,55,89.99,4949.45,West
+2024-10-06,OFFC004,Wireless Mouse,Office Supplies,14,29.99,419.86,East
+2024-10-06,CLTH002,Winter Jacket Women,Clothing,49,105.36,5162.64,South
+2024-10-06,HOME003,Air Fryer 5.5L,Home & Kitchen,42,129.99,5459.58,West
+2024-10-06,ELEC003,Portable Power Bank 20000mAh,Electronics,46,49.99,2299.54,East
+2024-10-06,BOOK001,Python Programming Guide,Books,48,44.99,2159.52,West
+2024-10-07,PETS001,Dog Food Premium 10kg,Pet Supplies,48,54.99,2639.52,Central
+2024-10-07,BEAU003,Electric Toothbrush,Beauty & Personal Care,37,49.99,1849.63,South
+2024-10-07,ELEC002,USB-C Fast Charger,Electronics,61,24.99,1524.39,North
+2024-10-07,OFFC001,Ergonomic Office Chair,Office Supplies,37,249.99,9249.63,South
+2024-10-07,FOOD001,Organic Coffee Beans 1kg,Food & Grocery,9,24.99,224.91,West
+2024-10-07,ELEC001,Wireless Bluetooth Headphones,Electronics,54,79.99,4319.46,Central
+2024-10-07,BEAU003,Electric Toothbrush,Beauty & Personal Care,17,49.99,849.83,Central
+2024-10-07,BOOK003,Mystery Novel Collection,Books,28,24.99,699.72,Central
+2024-10-07,SPRT003,Hiking Backpack 40L,Sports & Outdoors,27,79.99,2159.73,West
+2024-10-07,BEAU001,Vitamin C Serum,Beauty & Personal Care,32,24.98,799.36,South
+2024-10-07,TOYS001,Building Blocks Set 500pc,Toys & Games,38,39.99,1519.62,Central
+2024-10-07,OFFC002,LED Desk Lamp,Office Supplies,7,39.99,279.93,North
+2024-10-07,TOYS002,Board Game Strategy,Toys & Games,50,34.99,1749.5,East
+2024-10-08,HOME001,Stainless Steel Coffee Maker,Home & Kitchen,17,89.99,1529.83,East
+2024-10-08,SPRT004,Camping Tent 4-Person,Sports & Outdoors,3,124.73,374.19,South
+2024-10-08,TOYS001,Building Blocks Set 500pc,Toys & Games,45,39.99,1799.55,West
+2024-10-08,CLTH001,Running Shoes Men,Clothing,1,77.62,77.62,South
+2024-10-08,CLTH003,Cotton T-Shirt Pack (3),Clothing,73,29.99,2189.27,North
+2024-10-08,FOOD001,Organic Coffee Beans 1kg,Food & Grocery,23,24.99,574.77,West
+2024-10-08,HOME001,Stainless Steel Coffee Maker,Home & Kitchen,35,89.99,3149.65,East
+2024-10-08,PETS003,Pet Carrier Medium,Pet Supplies,45,39.99,1799.55,South
+2024-10-08,TOYS003,Remote Control Car,Toys & Games,25,49.99,1249.75,North
+2024-10-08,SPRT004,Camping Tent 4-Person,Sports & Outdoors,8,130.63,1045.04,North
+2024-10-09,ELEC003,Portable Power Bank 20000mAh,Electronics,49,49.99,2449.51,South
+2024-10-09,FOOD003,Green Tea Collection,Food & Grocery,46,19.99,919.54,West
+2024-10-09,BOOK002,The Art of Cooking,Books,34,32.99,1121.66,North
+2024-10-09,PETS003,Pet Carrier Medium,Pet Supplies,32,39.99,1279.68,East
+2024-10-09,CLTH003,Cotton T-Shirt Pack (3),Clothing,37,29.99,1109.63,North
+2024-10-09,OFFC004,Wireless Mouse,Office Supplies,33,29.99,989.67,South
+2024-10-09,PETS001,Dog Food Premium 10kg,Pet Supplies,29,51.87,1504.23,South
+2024-10-09,HOME001,Stainless Steel Coffee Maker,Home & Kitchen,23,77.73,1787.79,North
+2024-10-09,ELEC001,Wireless Bluetooth Headphones,Electronics,27,79.99,2159.73,East
+2024-10-09,CLTH003,Cotton T-Shirt Pack (3),Clothing,33,29.99,989.67,East
+2024-10-09,PETS002,Cat Scratching Post,Pet Supplies,29,44.99,1304.71,East
+2024-10-09,BOOK002,The Art of Cooking,Books,41,32.99,1352.59,South
+2024-10-10,HOME003,Air Fryer 5.5L,Home & Kitchen,24,129.99,3119.76,West
+2024-10-10,HOME001,Stainless Steel Coffee Maker,Home & Kitchen,34,89.99,3059.66,West
+2024-10-10,ELEC003,Portable Power Bank 20000mAh,Electronics,24,42.53,1020.72,East
+2024-10-10,SPRT001,Yoga Mat Premium,Sports & Outdoors,17,34.99,594.83,North
+2024-10-10,BEAU003,Electric Toothbrush,Beauty & Personal Care,1,49.99,49.99,East
+2024-10-10,PETS001,Dog Food Premium 10kg,Pet Supplies,2,54.99,109.98,West
+2024-10-10,CLTH001,Running Shoes Men,Clothing,10,89.99,899.9,East
+2024-10-10,ELEC002,USB-C Fast Charger,Electronics,4,24.99,99.96,East
+2024-10-10,BEAU003,Electric Toothbrush,Beauty & Personal Care,25,49.99,1249.75,West
+2024-10-10,PETS002,Cat Scratching Post,Pet Supplies,34,39.33,1337.22,West
+2024-10-10,TOYS003,Remote Control Car,Toys & Games,8,49.99,399.92,North
+2024-10-10,ELEC003,Portable Power Bank 20000mAh,Electronics,72,49.99,3599.28,East
+2024-10-10,OFFC001,Ergonomic Office Chair,Office Supplies,1,249.99,249.99,Central
+2024-10-10,CLTH001,Running Shoes Men,Clothing,46,80.63,3708.98,East
+2024-10-10,PETS003,Pet Carrier Medium,Pet Supplies,31,34.83,1079.73,North
+2024-10-10,SPRT004,Camping Tent 4-Person,Sports & Outdoors,41,149.99,6149.59,West
+2024-10-11,ELEC003,Portable Power Bank 20000mAh,Electronics,31,49.99,1549.69,North
+2024-10-11,TOYS003,Remote Control Car,Toys & Games,2,49.99,99.98,Central
+2024-10-11,SPRT003,Hiking Backpack 40L,Sports & Outdoors,21,79.99,1679.79,West
+2024-10-11,SPRT002,Resistance Bands Set,Sports & Outdoors,41,19.99,819.59,North
+2024-10-11,BOOK003,Mystery Novel Collection,Books,35,24.99,874.65,West
+2024-10-11,PETS002,Cat Scratching Post,Pet Supplies,46,44.99,2069.54,East
+2024-10-11,CLTH001,Running Shoes Men,Clothing,57,89.99,5129.43,South
+2024-10-11,ELEC001,Wireless Bluetooth Headphones,Electronics,69,79.99,5519.31,North
+2024-10-11,FOOD002,Protein Bars Box (12),Food & Grocery,12,29.99,359.88,East
+2024-10-11,BOOK002,The Art of Cooking,Books,40,32.99,1319.6,Central
+2024-10-11,ELEC001,Wireless Bluetooth Headphones,Electronics,66,79.99,5279.34,East
+2024-10-11,SPRT003,Hiking Backpack 40L,Sports & Outdoors,13,79.99,1039.87,Central
+2024-10-12,BOOK002,The Art of Cooking,Books,49,32.99,1616.51,South
+2024-10-12,CLTH003,Cotton T-Shirt Pack (3),Clothing,9,29.99,269.91,North
+2024-10-12,TOYS002,Board Game Strategy,Toys & Games,13,34.99,454.87,West
+2024-10-12,OFFC004,Wireless Mouse,Office Supplies,6,29.99,179.94,Central
+2024-10-12,ELEC001,Wireless Bluetooth Headphones,Electronics,70,64.39,4507.3,West
+2024-10-12,OFFC003,Notebook Set Premium,Office Supplies,1,17.81,17.81,South
+2024-10-12,BEAU002,Hair Dryer Professional,Beauty & Personal Care,40,59.99,2399.6,South
+2024-10-13,FOOD003,Green Tea Collection,Food & Grocery,17,19.99,339.83,North
+2024-10-13,PETS003,Pet Carrier Medium,Pet Supplies,7,39.99,279.93,Central
+2024-10-13,BEAU001,Vitamin C Serum,Beauty & Personal Care,46,25.86,1189.56,North
+2024-10-13,OFFC003,Notebook Set Premium,Office Supplies,46,18.99,873.54,Central
+2024-10-13,ELEC003,Portable Power Bank 20000mAh,Electronics,28,49.99,1399.72,East
+2024-10-13,HOME001,Stainless Steel Coffee Maker,Home & Kitchen,7,89.99,629.93,Central
+2024-10-13,OFFC001,Ergonomic Office Chair,Office Supplies,40,227.26,9090.4,North
+2024-10-13,TOYS003,Remote Control Car,Toys & Games,43,49.99,2149.57,Central
+2024-10-13,BEAU002,Hair Dryer Professional,Beauty & Personal Care,2,59.99,119.98,Central
+2024-10-13,PETS003,Pet Carrier Medium,Pet Supplies,38,39.99,1519.62,Central
+2024-10-13,OFFC002,LED Desk Lamp,Office Supplies,29,33.28,965.12,Central
+2024-10-13,CLTH004,Denim Jeans Classic,Clothing,27,54.99,1484.73,South
+2024-10-14,ELEC002,USB-C Fast Charger,Electronics,57,24.99,1424.43,Central
+2024-10-14,CLTH001,Running Shoes Men,Clothing,75,89.99,6749.25,South
+2024-10-14,CLTH001,Running Shoes Men,Clothing,3,89.99,269.97,Central
+2024-10-14,CLTH001,Running Shoes Men,Clothing,40,89.99,3599.6,North
+2024-10-14,OFFC003,Notebook Set Premium,Office Supplies,47,18.99,892.53,West
+2024-10-14,FOOD002,Protein Bars Box (12),Food & Grocery,31,29.99,929.69,Central
+2024-10-14,BOOK003,Mystery Novel Collection,Books,27,24.99,674.73,Central
+2024-10-14,BEAU003,Electric Toothbrush,Beauty & Personal Care,38,49.99,1899.62,North
+2024-10-14,ELEC002,USB-C Fast Charger,Electronics,39,22.76,887.64,East
+2024-10-14,FOOD003,Green Tea Collection,Food & Grocery,25,19.99,499.75,South
+2024-10-14,CLTH001,Running Shoes Men,Clothing,72,89.99,6479.28,North
+2024-10-15,FOOD002,Protein Bars Box (12),Food & Grocery,7,29.99,209.93,West
+2024-10-15,SPRT002,Resistance Bands Set,Sports & Outdoors,46,19.99,919.54,North
+2024-10-15,TOYS001,Building Blocks Set 500pc,Toys & Games,26,39.99,1039.74,East
+2024-10-15,TOYS003,Remote Control Car,Toys & Games,23,49.99,1149.77,East
+2024-10-15,CLTH004,Denim Jeans Classic,Clothing,7,54.99,384.93,South
+2024-10-15,ELEC003,Portable Power Bank 20000mAh,Electronics,73,49.99,3649.27,North
+2024-10-15,ELEC001,Wireless Bluetooth Headphones,Electronics,37,79.99,2959.63,West
+2024-10-15,BEAU001,Vitamin C Serum,Beauty & Personal Care,28,24.22,678.16,East
+2024-10-15,OFFC001,Ergonomic Office Chair,Office Supplies,24,249.99,5999.76,East
+2024-10-15,SPRT001,Yoga Mat Premium,Sports & Outdoors,40,34.99,1399.6,North
+2024-10-15,PETS001,Dog Food Premium 10kg,Pet Supplies,38,54.99,2089.62,East
+2024-10-15,SPRT003,Hiking Backpack 40L,Sports & Outdoors,25,66.88,1672.0,Central
+2024-10-15,BOOK002,The Art of Cooking,Books,15,32.99,494.85,East
+2024-10-15,ELEC001,Wireless Bluetooth Headphones,Electronics,48,79.99,3839.52,East
+2024-10-15,FOOD001,Organic Coffee Beans 1kg,Food & Grocery,25,23.51,587.75,South
+2024-10-15,BEAU002,Hair Dryer Professional,Beauty & Personal Care,29,59.99,1739.71,Central
+2024-10-15,TOYS002,Board Game Strategy,Toys & Games,48,34.99,1679.52,Central
+2024-10-16,SPRT003,Hiking Backpack 40L,Sports & Outdoors,17,79.99,1359.83,East
+2024-10-16,BOOK002,The Art of Cooking,Books,46,29.96,1378.16,South
+2024-10-16,BOOK001,Python Programming Guide,Books,31,44.99,1394.69,North
+2024-10-16,ELEC002,USB-C Fast Charger,Electronics,28,24.99,699.72,South
+2024-10-16,BOOK001,Python Programming Guide,Books,8,44.99,359.92,South
+2024-10-16,TOYS002,Board Game Strategy,Toys & Games,20,31.84,636.8,North
+2024-10-16,OFFC001,Ergonomic Office Chair,Office Supplies,24,213.37,5120.88,West
+2024-10-16,BOOK001,Python Programming Guide,Books,18,44.99,809.82,Central
+2024-10-16,BEAU003,Electric Toothbrush,Beauty & Personal Care,44,49.99,2199.56,West
+2024-10-16,HOME002,Non-Stick Frying Pan Set,Home & Kitchen,28,45.99,1287.72,Central
+2024-10-16,TOYS002,Board Game Strategy,Toys & Games,14,34.99,489.86,Central
+2024-10-16,CLTH004,Denim Jeans Classic,Clothing,49,54.99,2694.51,North
+2024-10-17,ELEC002,USB-C Fast Charger,Electronics,13,24.99,324.87,West
+2024-10-17,BOOK002,The Art of Cooking,Books,2,32.99,65.98,South
+2024-10-17,OFFC003,Notebook Set Premium,Office Supplies,24,18.99,455.76,Central
+2024-10-17,OFFC001,Ergonomic Office Chair,Office Supplies,35,249.99,8749.65,East
+2024-10-17,HOME002,Non-Stick Frying Pan Set,Home & Kitchen,48,45.99,2207.52,East
+2024-10-17,OFFC002,LED Desk Lamp,Office Supplies,33,37.81,1247.73,Central
+2024-10-17,TOYS003,Remote Control Car,Toys & Games,46,40.47,1861.62,North
+2024-10-17,PETS001,Dog Food Premium 10kg,Pet Supplies,41,54.99,2254.59,North
+2024-10-17,CLTH001,Running Shoes Men,Clothing,63,89.99,5669.37,South
+2024-10-18,PETS002,Cat Scratching Post,Pet Supplies,9,44.99,404.91,Central
+2024-10-18,SPRT002,Resistance Bands Set,Sports & Outdoors,23,19.99,459.77,North
+2024-10-18,SPRT003,Hiking Backpack 40L,Sports & Outdoors,25,70.5,1762.5,South
+2024-10-18,CLTH004,Denim Jeans Classic,Clothing,19,54.99,1044.81,South
+2024-10-18,PETS002,Cat Scratching Post,Pet Supplies,46,44.99,2069.54,Central
+2024-10-18,HOME001,Stainless Steel Coffee Maker,Home & Kitchen,39,89.99,3509.61,North
+2024-10-18,SPRT003,Hiking Backpack 40L,Sports & Outdoors,30,79.99,2399.7,North
+2024-10-18,BEAU002,Hair Dryer Professional,Beauty & Personal Care,6,59.99,359.94,South
+2024-10-18,FOOD003,Green Tea Collection,Food & Grocery,20,19.99,399.8,East
+2024-10-18,BOOK002,The Art of Cooking,Books,9,32.99,296.91,South
+2024-10-18,PETS003,Pet Carrier Medium,Pet Supplies,45,39.99,1799.55,North
+2024-10-18,CLTH001,Running Shoes Men,Clothing,40,89.99,3599.6,South
+2024-10-18,ELEC002,USB-C Fast Charger,Electronics,67,20.11,1347.37,South
+2024-10-19,SPRT004,Camping Tent 4-Person,Sports & Outdoors,36,149.99,5399.64,North
+2024-10-19,SPRT003,Hiking Backpack 40L,Sports & Outdoors,35,66.55,2329.25,Central
+2024-10-19,OFFC004,Wireless Mouse,Office Supplies,1,29.99,29.99,West
+2024-10-19,SPRT002,Resistance Bands Set,Sports & Outdoors,25,19.99,499.75,North
+2024-10-19,OFFC003,Notebook Set Premium,Office Supplies,2,18.99,37.98,South
+2024-10-19,ELEC004,Smart Watch Pro,Electronics,60,199.99,11999.4,North
+2024-10-19,CLTH001,Running Shoes Men,Clothing,21,89.99,1889.79,East
+2024-10-19,FOOD001,Organic Coffee Beans 1kg,Food & Grocery,35,23.07,807.45,North
+2024-10-20,OFFC003,Notebook Set Premium,Office Supplies,37,18.99,702.63,Central
+2024-10-20,SPRT004,Camping Tent 4-Person,Sports & Outdoors,17,149.99,2549.83,North
+2024-10-20,BEAU003,Electric Toothbrush,Beauty & Personal Care,2,49.99,99.98,Central
+2024-10-20,BOOK003,Mystery Novel Collection,Books,32,21.69,694.08,South
+2024-10-20,ELEC001,Wireless Bluetooth Headphones,Electronics,37,65.77,2433.49,South
+2024-10-20,BEAU002,Hair Dryer Professional,Beauty & Personal Care,24,59.99,1439.76,North
+2024-10-20,BOOK002,The Art of Cooking,Books,2,32.99,65.98,North
+2024-10-20,SPRT004,Camping Tent 4-Person,Sports & Outdoors,50,149.99,7499.5,Central
+2024-10-20,PETS001,Dog Food Premium 10kg,Pet Supplies,31,54.99,1704.69,East
+2024-10-20,BOOK002,The Art of Cooking,Books,40,32.99,1319.6,North
+2024-10-20,BOOK001,Python Programming Guide,Books,6,37.74,226.44,East
+2024-10-21,HOME003,Air Fryer 5.5L,Home & Kitchen,41,129.99,5329.59,Central
+2024-10-21,PETS002,Cat Scratching Post,Pet Supplies,19,44.99,854.81,Central
+2024-10-21,BEAU003,Electric Toothbrush,Beauty & Personal Care,43,49.99,2149.57,Central
+2024-10-21,OFFC003,Notebook Set Premium,Office Supplies,47,15.65,735.55,West
+2024-10-21,ELEC003,Portable Power Bank 20000mAh,Electronics,7,49.99,349.93,West
+2024-10-21,BEAU003,Electric Toothbrush,Beauty & Personal Care,22,49.99,1099.78,Central
+2024-10-21,PETS001,Dog Food Premium 10kg,Pet Supplies,44,54.99,2419.56,South
+2024-10-21,TOYS003,Remote Control Car,Toys & Games,38,49.99,1899.62,South
+2024-10-21,PETS001,Dog Food Premium 10kg,Pet Supplies,19,54.99,1044.81,Central
+2024-10-21,OFFC003,Notebook Set Premium,Office Supplies,2,18.99,37.98,North
+2024-10-21,BEAU003,Electric Toothbrush,Beauty & Personal Care,9,49.99,449.91,Central
+2024-10-21,BEAU001,Vitamin C Serum,Beauty & Personal Care,45,26.04,1171.8,South
+2024-10-21,SPRT002,Resistance Bands Set,Sports & Outdoors,37,19.99,739.63,North
+2024-10-22,SPRT001,Yoga Mat Premium,Sports & Outdoors,30,34.99,1049.7,Central
+2024-10-22,BOOK002,The Art of Cooking,Books,25,32.99,824.75,West
+2024-10-22,CLTH004,Denim Jeans Classic,Clothing,10,46.36,463.6,North
+2024-10-22,CLTH002,Winter Jacket Women,Clothing,57,129.99,7409.43,South
+2024-10-22,CLTH001,Running Shoes Men,Clothing,37,89.99,3329.63,West
+2024-10-22,OFFC004,Wireless Mouse,Office Supplies,50,27.64,1382.0,Central
+2024-10-22,OFFC004,Wireless Mouse,Office Supplies,43,29.99,1289.57,Central
+2024-10-22,SPRT003,Hiking Backpack 40L,Sports & Outdoors,32,79.99,2559.68,West
+2024-10-22,BEAU001,Vitamin C Serum,Beauty & Personal Care,3,27.05,81.15,West
+2024-10-22,OFFC003,Notebook Set Premium,Office Supplies,35,18.99,664.65,East
+2024-10-22,ELEC002,USB-C Fast Charger,Electronics,55,24.99,1374.45,East
+2024-10-22,OFFC001,Ergonomic Office Chair,Office Supplies,29,249.99,7249.71,South
+2024-10-22,BOOK001,Python Programming Guide,Books,39,42.59,1661.01,South
+2024-10-22,BEAU001,Vitamin C Serum,Beauty & Personal Care,43,28.99,1246.57,Central
+2024-10-22,BOOK002,The Art of Cooking,Books,3,32.99,98.97,North
+2024-10-22,BOOK001,Python Programming Guide,Books,13,44.99,584.87,Central
+2024-10-22,CLTH003,Cotton T-Shirt Pack (3),Clothing,19,26.71,507.49,Central
+2024-10-22,HOME001,Stainless Steel Coffee Maker,Home & Kitchen,11,89.99,989.89,Central
+2024-10-23,BEAU002,Hair Dryer Professional,Beauty & Personal Care,9,59.99,539.91,South
+2024-10-23,BOOK001,Python Programming Guide,Books,20,44.99,899.8,Central
+2024-10-23,SPRT001,Yoga Mat Premium,Sports & Outdoors,27,34.99,944.73,West
+2024-10-23,OFFC004,Wireless Mouse,Office Supplies,25,29.99,749.75,Central
+2024-10-23,BOOK002,The Art of Cooking,Books,45,28.24,1270.8,South
+2024-10-23,ELEC003,Portable Power Bank 20000mAh,Electronics,43,49.99,2149.57,South
+2024-10-23,OFFC004,Wireless Mouse,Office Supplies,5,25.57,127.85,North
+2024-10-23,HOME003,Air Fryer 5.5L,Home & Kitchen,20,129.99,2599.8,North
+2024-10-23,FOOD002,Protein Bars Box (12),Food & Grocery,50,29.99,1499.5,West
+2024-10-23,ELEC004,Smart Watch Pro,Electronics,69,199.99,13799.31,West
+2024-10-24,ELEC001,Wireless Bluetooth Headphones,Electronics,18,79.99,1439.82,East
+2024-10-24,TOYS003,Remote Control Car,Toys & Games,14,49.99,699.86,East
+2024-10-24,FOOD003,Green Tea Collection,Food & Grocery,15,19.99,299.85,West
+2024-10-24,ELEC002,USB-C Fast Charger,Electronics,39,21.18,826.02,North
+2024-10-24,ELEC004,Smart Watch Pro,Electronics,21,199.99,4199.79,West
+2024-10-24,CLTH001,Running Shoes Men,Clothing,67,89.99,6029.33,West
+2024-10-25,CLTH003,Cotton T-Shirt Pack (3),Clothing,27,24.72,667.44,East
+2024-10-25,OFFC002,LED Desk Lamp,Office Supplies,37,39.99,1479.63,North
+2024-10-25,BEAU001,Vitamin C Serum,Beauty & Personal Care,41,28.99,1188.59,Central
+2024-10-25,PETS002,Cat Scratching Post,Pet Supplies,32,44.99,1439.68,South
+2024-10-25,ELEC001,Wireless Bluetooth Headphones,Electronics,3,79.99,239.97,East
+2024-10-25,HOME003,Air Fryer 5.5L,Home & Kitchen,26,107.49,2794.74,Central
+2024-10-25,TOYS003,Remote Control Car,Toys & Games,41,49.99,2049.59,North
+2024-10-25,ELEC003,Portable Power Bank 20000mAh,Electronics,9,44.12,397.08,West
+2024-10-25,SPRT003,Hiking Backpack 40L,Sports & Outdoors,26,70.86,1842.36,East
+2024-10-25,HOME003,Air Fryer 5.5L,Home & Kitchen,5,129.99,649.95,East
+2024-10-25,ELEC001,Wireless Bluetooth Headphones,Electronics,48,79.99,3839.52,South
+2024-10-25,OFFC004,Wireless Mouse,Office Supplies,20,29.99,599.8,East
+2024-10-25,ELEC004,Smart Watch Pro,Electronics,69,199.99,13799.31,South
+2024-10-25,BEAU001,Vitamin C Serum,Beauty & Personal Care,6,28.99,173.94,West
+2024-10-25,OFFC002,LED Desk Lamp,Office Supplies,44,36.14,1590.16,East
+2024-10-25,BEAU001,Vitamin C Serum,Beauty & Personal Care,27,28.99,782.73,East
+2024-10-25,TOYS003,Remote Control Car,Toys & Games,3,49.99,149.97,South
+2024-10-25,HOME002,Non-Stick Frying Pan Set,Home & Kitchen,14,45.99,643.86,North
+2024-10-26,FOOD001,Organic Coffee Beans 1kg,Food & Grocery,43,24.99,1074.57,North
+2024-10-26,ELEC004,Smart Watch Pro,Electronics,46,199.99,9199.54,South
+2024-10-26,BOOK001,Python Programming Guide,Books,24,44.99,1079.76,West
+2024-10-26,TOYS001,Building Blocks Set 500pc,Toys & Games,46,39.99,1839.54,North
+2024-10-26,FOOD002,Protein Bars Box (12),Food & Grocery,12,29.99,359.88,South
+2024-10-26,TOYS002,Board Game Strategy,Toys & Games,35,34.99,1224.65,East
+2024-10-26,ELEC004,Smart Watch Pro,Electronics,15,199.99,2999.85,East
+2024-10-26,BOOK003,Mystery Novel Collection,Books,44,24.99,1099.56,East
+2024-10-26,BEAU001,Vitamin C Serum,Beauty & Personal Care,41,28.99,1188.59,North
+2024-10-26,SPRT002,Resistance Bands Set,Sports & Outdoors,46,19.99,919.54,South
+2024-10-26,TOYS001,Building Blocks Set 500pc,Toys & Games,22,35.39,778.58,South
+2024-10-26,ELEC003,Portable Power Bank 20000mAh,Electronics,75,49.99,3749.25,Central
+2024-10-26,PETS001,Dog Food Premium 10kg,Pet Supplies,45,54.99,2474.55,Central
+2024-10-26,BOOK001,Python Programming Guide,Books,29,44.99,1304.71,North
+2024-10-26,TOYS001,Building Blocks Set 500pc,Toys & Games,21,32.62,685.02,North
+2024-10-26,OFFC003,Notebook Set Premium,Office Supplies,49,18.99,930.51,West
+2024-10-26,BEAU001,Vitamin C Serum,Beauty & Personal Care,16,28.99,463.84,Central
+2024-10-27,CLTH004,Denim Jeans Classic,Clothing,66,54.99,3629.34,Central
+2024-10-27,FOOD001,Organic Coffee Beans 1kg,Food & Grocery,45,24.99,1124.55,South
+2024-10-27,BEAU003,Electric Toothbrush,Beauty & Personal Care,11,49.99,549.89,East
+2024-10-27,PETS003,Pet Carrier Medium,Pet Supplies,23,39.99,919.77,North
+2024-10-27,CLTH003,Cotton T-Shirt Pack (3),Clothing,12,29.99,359.88,East
+2024-10-27,PETS001,Dog Food Premium 10kg,Pet Supplies,7,54.99,384.93,West
+2024-10-27,BOOK003,Mystery Novel Collection,Books,37,24.99,924.63,West
+2024-10-27,BEAU003,Electric Toothbrush,Beauty & Personal Care,28,49.99,1399.72,South
+2024-10-28,SPRT004,Camping Tent 4-Person,Sports & Outdoors,23,149.99,3449.77,North
+2024-10-28,ELEC002,USB-C Fast Charger,Electronics,48,24.99,1199.52,South
+2024-10-28,BEAU003,Electric Toothbrush,Beauty & Personal Care,9,49.99,449.91,East
+2024-10-28,CLTH001,Running Shoes Men,Clothing,27,82.39,2224.53,East
+2024-10-28,CLTH002,Winter Jacket Women,Clothing,69,129.99,8969.31,East
+2024-10-28,ELEC003,Portable Power Bank 20000mAh,Electronics,46,49.99,2299.54,East
+2024-10-28,ELEC002,USB-C Fast Charger,Electronics,10,24.99,249.9,Central
+2024-10-28,ELEC003,Portable Power Bank 20000mAh,Electronics,18,49.99,899.82,North
+2024-10-28,SPRT001,Yoga Mat Premium,Sports & Outdoors,5,34.99,174.95,West
+2024-10-28,HOME002,Non-Stick Frying Pan Set,Home & Kitchen,1,45.99,45.99,North
+2024-10-28,SPRT004,Camping Tent 4-Person,Sports & Outdoors,30,149.99,4499.7,Central
+2024-10-29,CLTH004,Denim Jeans Classic,Clothing,24,54.99,1319.76,West
+2024-10-29,TOYS003,Remote Control Car,Toys & Games,13,49.99,649.87,Central
+2024-10-29,FOOD001,Organic Coffee Beans 1kg,Food & Grocery,12,23.48,281.76,Central
+2024-10-29,CLTH002,Winter Jacket Women,Clothing,57,129.99,7409.43,South
+2024-10-29,SPRT004,Camping Tent 4-Person,Sports & Outdoors,20,149.99,2999.8,East
+2024-10-29,OFFC002,LED Desk Lamp,Office Supplies,36,39.99,1439.64,West
+2024-10-29,PETS001,Dog Food Premium 10kg,Pet Supplies,8,54.99,439.92,Central
+2024-10-30,SPRT001,Yoga Mat Premium,Sports & Outdoors,24,29.1,698.4,North
+2024-10-30,BOOK001,Python Programming Guide,Books,25,44.99,1124.75,East
+2024-10-30,CLTH001,Running Shoes Men,Clothing,27,89.99,2429.73,Central
+2024-10-30,ELEC001,Wireless Bluetooth Headphones,Electronics,12,79.99,959.88,Central
+2024-10-30,SPRT002,Resistance Bands Set,Sports & Outdoors,46,19.99,919.54,Central
+2024-10-30,PETS002,Cat Scratching Post,Pet Supplies,46,44.99,2069.54,South
+2024-10-30,FOOD003,Green Tea Collection,Food & Grocery,34,19.99,679.66,South
+2024-10-30,HOME002,Non-Stick Frying Pan Set,Home & Kitchen,15,45.99,689.85,North
+2024-10-30,ELEC002,USB-C Fast Charger,Electronics,61,24.99,1524.39,Central
+2024-10-30,ELEC004,Smart Watch Pro,Electronics,67,199.99,13399.33,Central
+2024-10-31,SPRT001,Yoga Mat Premium,Sports & Outdoors,42,34.99,1469.58,South
+2024-10-31,HOME001,Stainless Steel Coffee Maker,Home & Kitchen,14,81.45,1140.3,West
+2024-10-31,BOOK002,The Art of Cooking,Books,48,32.99,1583.52,North
+2024-10-31,SPRT002,Resistance Bands Set,Sports & Outdoors,4,19.99,79.96,Central
+2024-10-31,BEAU001,Vitamin C Serum,Beauty & Personal Care,26,28.99,753.74,East
+2024-10-31,OFFC004,Wireless Mouse,Office Supplies,44,29.99,1319.56,North
+2024-11-01,TOYS001,Building Blocks Set 500pc,Toys & Games,28,39.99,1119.72,East
+2024-11-01,OFFC004,Wireless Mouse,Office Supplies,50,29.99,1499.5,East
+2024-11-01,CLTH001,Running Shoes Men,Clothing,75,74.48,5586.0,North
+2024-11-01,BOOK002,The Art of Cooking,Books,12,32.99,395.88,East
+2024-11-01,BOOK001,Python Programming Guide,Books,19,37.49,712.31,Central
+2024-11-02,PETS002,Cat Scratching Post,Pet Supplies,40,40.17,1606.8,East
+2024-11-02,FOOD002,Protein Bars Box (12),Food & Grocery,16,29.99,479.84,North
+2024-11-02,HOME001,Stainless Steel Coffee Maker,Home & Kitchen,45,89.99,4049.55,East
+2024-11-02,HOME003,Air Fryer 5.5L,Home & Kitchen,24,120.16,2883.84,North
+2024-11-02,PETS002,Cat Scratching Post,Pet Supplies,34,44.99,1529.66,Central
+2024-11-02,TOYS003,Remote Control Car,Toys & Games,45,49.99,2249.55,West
+2024-11-02,CLTH003,Cotton T-Shirt Pack (3),Clothing,63,29.99,1889.37,Central
+2024-11-02,BOOK002,The Art of Cooking,Books,2,28.81,57.62,Central
+2024-11-03,SPRT002,Resistance Bands Set,Sports & Outdoors,12,19.99,239.88,East
+2024-11-03,FOOD002,Protein Bars Box (12),Food & Grocery,45,25.27,1137.15,Central
+2024-11-03,BEAU001,Vitamin C Serum,Beauty & Personal Care,37,28.99,1072.63,East
+2024-11-03,FOOD002,Protein Bars Box (12),Food & Grocery,26,29.99,779.74,West
+2024-11-03,SPRT002,Resistance Bands Set,Sports & Outdoors,3,19.99,59.97,South
+2024-11-03,HOME001,Stainless Steel Coffee Maker,Home & Kitchen,12,89.99,1079.88,South
+2024-11-03,OFFC004,Wireless Mouse,Office Supplies,40,27.11,1084.4,Central
+2024-11-03,OFFC003,Notebook Set Premium,Office Supplies,37,18.99,702.63,East
+2024-11-04,OFFC004,Wireless Mouse,Office Supplies,41,29.99,1229.59,Central
+2024-11-04,OFFC001,Ergonomic Office Chair,Office Supplies,9,249.99,2249.91,South
+2024-11-04,FOOD002,Protein Bars Box (12),Food & Grocery,16,29.99,479.84,Central
+2024-11-04,PETS002,Cat Scratching Post,Pet Supplies,49,44.99,2204.51,South
+2024-11-04,SPRT002,Resistance Bands Set,Sports & Outdoors,23,19.99,459.77,Central
+2024-11-04,OFFC003,Notebook Set Premium,Office Supplies,33,18.99,626.67,West
+2024-11-04,SPRT001,Yoga Mat Premium,Sports & Outdoors,8,34.99,279.92,East
+2024-11-04,BOOK003,Mystery Novel Collection,Books,17,24.99,424.83,South
+2024-11-05,ELEC004,Smart Watch Pro,Electronics,12,199.99,2399.88,North
+2024-11-05,HOME003,Air Fryer 5.5L,Home & Kitchen,3,129.99,389.97,West
+2024-11-05,PETS002,Cat Scratching Post,Pet Supplies,20,41.19,823.8,North
+2024-11-05,ELEC002,USB-C Fast Charger,Electronics,73,22.0,1606.0,East
+2024-11-05,PETS003,Pet Carrier Medium,Pet Supplies,25,39.99,999.75,Central
+2024-11-05,OFFC002,LED Desk Lamp,Office Supplies,35,39.99,1399.65,Central
+2024-11-05,CLTH002,Winter Jacket Women,Clothing,22,129.99,2859.78,West
+2024-11-05,SPRT004,Camping Tent 4-Person,Sports & Outdoors,5,134.82,674.1,North
+2024-11-06,BEAU001,Vitamin C Serum,Beauty & Personal Care,16,23.76,380.16,East
+2024-11-06,HOME001,Stainless Steel Coffee Maker,Home & Kitchen,33,89.99,2969.67,West
+2024-11-06,BOOK003,Mystery Novel Collection,Books,3,24.99,74.97,West
+2024-11-06,ELEC003,Portable Power Bank 20000mAh,Electronics,33,49.99,1649.67,East
+2024-11-06,OFFC004,Wireless Mouse,Office Supplies,49,29.99,1469.51,South
+2024-11-06,CLTH002,Winter Jacket Women,Clothing,48,129.99,6239.52,West
+2024-11-06,ELEC001,Wireless Bluetooth Headphones,Electronics,60,79.99,4799.4,East
+2024-11-07,PETS003,Pet Carrier Medium,Pet Supplies,41,39.99,1639.59,Central
+2024-11-07,OFFC003,Notebook Set Premium,Office Supplies,38,18.99,721.62,South
+2024-11-07,CLTH002,Winter Jacket Women,Clothing,60,129.99,7799.4,Central
+2024-11-07,PETS003,Pet Carrier Medium,Pet Supplies,6,32.67,196.02,West
+2024-11-07,BEAU003,Electric Toothbrush,Beauty & Personal Care,30,49.99,1499.7,East
+2024-11-07,ELEC001,Wireless Bluetooth Headphones,Electronics,13,71.48,929.24,East
+2024-11-07,OFFC001,Ergonomic Office Chair,Office Supplies,1,249.99,249.99,North
+2024-11-07,BEAU001,Vitamin C Serum,Beauty & Personal Care,12,28.99,347.88,South
+2024-11-07,SPRT003,Hiking Backpack 40L,Sports & Outdoors,32,79.99,2559.68,East
+2024-11-07,OFFC003,Notebook Set Premium,Office Supplies,2,16.88,33.76,West
+2024-11-07,TOYS001,Building Blocks Set 500pc,Toys & Games,3,39.99,119.97,South
+2024-11-07,ELEC001,Wireless Bluetooth Headphones,Electronics,12,79.99,959.88,West
+2024-11-07,PETS002,Cat Scratching Post,Pet Supplies,38,44.99,1709.62,Central
+2024-11-07,BOOK001,Python Programming Guide,Books,41,44.99,1844.59,Central
+2024-11-08,BOOK003,Mystery Novel Collection,Books,45,24.99,1124.55,North
+2024-11-08,PETS002,Cat Scratching Post,Pet Supplies,24,44.99,1079.76,South
+2024-11-08,BOOK003,Mystery Novel Collection,Books,4,24.99,99.96,North
+2024-11-08,CLTH002,Winter Jacket Women,Clothing,60,129.99,7799.4,South
+2024-11-08,SPRT003,Hiking Backpack 40L,Sports & Outdoors,10,79.99,799.9,South
+2024-11-08,PETS001,Dog Food Premium 10kg,Pet Supplies,41,54.99,2254.59,Central
+2024-11-08,FOOD002,Protein Bars Box (12),Food & Grocery,29,29.99,869.71,North
+2024-11-08,ELEC003,Portable Power Bank 20000mAh,Electronics,15,45.73,685.95,North
+2024-11-08,ELEC003,Portable Power Bank 20000mAh,Electronics,48,49.99,2399.52,North
+2024-11-08,FOOD003,Green Tea Collection,Food & Grocery,36,19.99,719.64,West
+2024-11-08,FOOD003,Green Tea Collection,Food & Grocery,16,19.99,319.84,North
+2024-11-08,BOOK002,The Art of Cooking,Books,35,32.99,1154.65,Central
+2024-11-08,OFFC001,Ergonomic Office Chair,Office Supplies,33,249.99,8249.67,West
+2024-11-08,CLTH004,Denim Jeans Classic,Clothing,51,45.24,2307.24,Central
+2024-11-08,FOOD001,Organic Coffee Beans 1kg,Food & Grocery,28,24.99,699.72,South
+2024-11-09,BOOK003,Mystery Novel Collection,Books,22,23.23,511.06,Central
+2024-11-09,FOOD003,Green Tea Collection,Food & Grocery,2,19.99,39.98,East
+2024-11-09,BEAU003,Electric Toothbrush,Beauty & Personal Care,13,49.99,649.87,South
+2024-11-09,TOYS003,Remote Control Car,Toys & Games,35,49.99,1749.65,East
+2024-11-09,SPRT002,Resistance Bands Set,Sports & Outdoors,46,18.19,836.74,East
+2024-11-09,OFFC003,Notebook Set Premium,Office Supplies,12,18.99,227.88,West
+2024-11-09,BOOK003,Mystery Novel Collection,Books,17,24.99,424.83,North
+2024-11-09,BOOK002,The Art of Cooking,Books,20,27.51,550.2,East
+2024-11-09,FOOD001,Organic Coffee Beans 1kg,Food & Grocery,17,24.99,424.83,East
+2024-11-10,FOOD001,Organic Coffee Beans 1kg,Food & Grocery,25,24.99,624.75,Central
+2024-11-10,FOOD002,Protein Bars Box (12),Food & Grocery,18,25.43,457.74,East
+2024-11-10,PETS002,Cat Scratching Post,Pet Supplies,2,44.99,89.98,North
+2024-11-10,BOOK001,Python Programming Guide,Books,45,44.99,2024.55,West
+2024-11-10,CLTH002,Winter Jacket Women,Clothing,25,129.99,3249.75,East
+2024-11-10,BOOK003,Mystery Novel Collection,Books,40,24.99,999.6,West
+2024-11-10,FOOD001,Organic Coffee Beans 1kg,Food & Grocery,37,24.99,924.63,North
+2024-11-10,HOME001,Stainless Steel Coffee Maker,Home & Kitchen,14,89.99,1259.86,West
+2024-11-10,OFFC003,Notebook Set Premium,Office Supplies,14,18.99,265.86,North
+2024-11-10,CLTH002,Winter Jacket Women,Clothing,25,129.99,3249.75,North
+2024-11-10,BEAU002,Hair Dryer Professional,Beauty & Personal Care,33,49.67,1639.11,South
+2024-11-11,BOOK001,Python Programming Guide,Books,7,44.99,314.93,South
+2024-11-11,ELEC004,Smart Watch Pro,Electronics,64,199.99,12799.36,South
+2024-11-11,BOOK003,Mystery Novel Collection,Books,46,24.99,1149.54,East
+2024-11-11,CLTH004,Denim Jeans Classic,Clothing,55,54.99,3024.45,West
+2024-11-11,TOYS001,Building Blocks Set 500pc,Toys & Games,14,32.0,448.0,West
+2024-11-11,OFFC004,Wireless Mouse,Office Supplies,7,27.46,192.22,South
+2024-11-11,OFFC002,LED Desk Lamp,Office Supplies,43,32.49,1397.07,Central
+2024-11-11,SPRT002,Resistance Bands Set,Sports & Outdoors,46,18.88,868.48,Central
+2024-11-12,CLTH004,Denim Jeans Classic,Clothing,39,54.99,2144.61,West
+2024-11-12,OFFC002,LED Desk Lamp,Office Supplies,23,35.6,818.8,Central
+2024-11-12,BOOK001,Python Programming Guide,Books,9,36.47,328.23,West
+2024-11-12,SPRT001,Yoga Mat Premium,Sports & Outdoors,6,29.92,179.52,North
+2024-11-12,HOME001,Stainless Steel Coffee Maker,Home & Kitchen,18,89.99,1619.82,North
+2024-11-12,ELEC003,Portable Power Bank 20000mAh,Electronics,25,49.99,1249.75,East
+2024-11-12,PETS001,Dog Food Premium 10kg,Pet Supplies,1,47.26,47.26,East
+2024-11-12,BEAU002,Hair Dryer Professional,Beauty & Personal Care,25,59.99,1499.75,Central
+2024-11-12,BEAU003,Electric Toothbrush,Beauty & Personal Care,26,42.42,1102.92,West
+2024-11-12,TOYS003,Remote Control Car,Toys & Games,3,49.99,149.97,North
+2024-11-12,ELEC003,Portable Power Bank 20000mAh,Electronics,58,49.99,2899.42,South
+2024-11-12,CLTH004,Denim Jeans Classic,Clothing,31,54.99,1704.69,Central
+2024-11-12,HOME003,Air Fryer 5.5L,Home & Kitchen,22,129.99,2859.78,South
+2024-11-12,BEAU002,Hair Dryer Professional,Beauty & Personal Care,3,59.99,179.97,East
+2024-11-12,CLTH001,Running Shoes Men,Clothing,46,89.99,4139.54,Central
+2024-11-13,FOOD001,Organic Coffee Beans 1kg,Food & Grocery,44,21.78,958.32,West
+2024-11-13,ELEC002,USB-C Fast Charger,Electronics,31,24.99,774.69,Central
+2024-11-13,BOOK002,The Art of Cooking,Books,42,32.99,1385.58,West
+2024-11-13,OFFC001,Ergonomic Office Chair,Office Supplies,20,249.99,4999.8,Central
+2024-11-13,SPRT003,Hiking Backpack 40L,Sports & Outdoors,2,79.99,159.98,West
+2024-11-13,HOME003,Air Fryer 5.5L,Home & Kitchen,40,129.99,5199.6,East
+2024-11-13,CLTH003,Cotton T-Shirt Pack (3),Clothing,49,29.99,1469.51,West
+2024-11-13,ELEC002,USB-C Fast Charger,Electronics,30,21.36,640.8,East
+2024-11-13,ELEC003,Portable Power Bank 20000mAh,Electronics,55,47.27,2599.85,South
+2024-11-14,SPRT001,Yoga Mat Premium,Sports & Outdoors,5,34.99,174.95,West
+2024-11-14,SPRT004,Camping Tent 4-Person,Sports & Outdoors,33,149.99,4949.67,West
+2024-11-14,BEAU002,Hair Dryer Professional,Beauty & Personal Care,37,59.99,2219.63,West
+2024-11-14,SPRT004,Camping Tent 4-Person,Sports & Outdoors,5,149.99,749.95,East
+2024-11-14,PETS001,Dog Food Premium 10kg,Pet Supplies,25,54.99,1374.75,Central
+2024-11-14,FOOD001,Organic Coffee Beans 1kg,Food & Grocery,50,24.99,1249.5,West
+2024-11-14,FOOD001,Organic Coffee Beans 1kg,Food & Grocery,45,24.99,1124.55,South
+2024-11-14,CLTH004,Denim Jeans Classic,Clothing,72,54.99,3959.28,West
+2024-11-15,PETS003,Pet Carrier Medium,Pet Supplies,12,34.43,413.16,North
+2024-11-15,ELEC001,Wireless Bluetooth Headphones,Electronics,54,79.99,4319.46,East
+2024-11-15,FOOD002,Protein Bars Box (12),Food & Grocery,15,29.99,449.85,Central
+2024-11-15,ELEC001,Wireless Bluetooth Headphones,Electronics,51,79.99,4079.49,North
+2024-11-15,PETS003,Pet Carrier Medium,Pet Supplies,29,39.99,1159.71,East
+2024-11-15,OFFC002,LED Desk Lamp,Office Supplies,16,39.99,639.84,Central
+2024-11-15,OFFC002,LED Desk Lamp,Office Supplies,32,39.99,1279.68,East
+2024-11-15,OFFC002,LED Desk Lamp,Office Supplies,48,37.56,1802.88,South
+2024-11-15,ELEC003,Portable Power Bank 20000mAh,Electronics,25,41.84,1046.0,North
+2024-11-15,HOME002,Non-Stick Frying Pan Set,Home & Kitchen,24,45.99,1103.76,Central
+2024-11-15,OFFC002,LED Desk Lamp,Office Supplies,35,39.99,1399.65,North
+2024-11-15,SPRT001,Yoga Mat Premium,Sports & Outdoors,2,34.99,69.98,North
+2024-11-15,CLTH001,Running Shoes Men,Clothing,45,89.99,4049.55,South
+2024-11-15,ELEC001,Wireless Bluetooth Headphones,Electronics,36,79.99,2879.64,West
+2024-11-15,BOOK002,The Art of Cooking,Books,14,30.25,423.5,East
+2024-11-15,TOYS001,Building Blocks Set 500pc,Toys & Games,19,39.99,759.81,East
+2024-11-16,HOME003,Air Fryer 5.5L,Home & Kitchen,37,129.99,4809.63,West
+2024-11-16,OFFC003,Notebook Set Premium,Office Supplies,1,18.99,18.99,East
+2024-11-16,HOME001,Stainless Steel Coffee Maker,Home & Kitchen,12,74.7,896.4,West
+2024-11-16,FOOD003,Green Tea Collection,Food & Grocery,33,19.99,659.67,South
+2024-11-16,PETS001,Dog Food Premium 10kg,Pet Supplies,37,54.99,2034.63,West
+2024-11-16,OFFC002,LED Desk Lamp,Office Supplies,23,39.99,919.77,West
+2024-11-16,SPRT001,Yoga Mat Premium,Sports & Outdoors,24,34.99,839.76,Central
+2024-11-16,SPRT002,Resistance Bands Set,Sports & Outdoors,20,18.29,365.8,East
+2024-11-17,TOYS001,Building Blocks Set 500pc,Toys & Games,3,39.99,119.97,West
+2024-11-17,ELEC002,USB-C Fast Charger,Electronics,3,24.99,74.97,Central
+2024-11-17,PETS002,Cat Scratching Post,Pet Supplies,12,44.99,539.88,West
+2024-11-17,CLTH002,Winter Jacket Women,Clothing,24,109.1,2618.4,North
+2024-11-17,CLTH002,Winter Jacket Women,Clothing,9,129.99,1169.91,Central
+2024-11-17,HOME002,Non-Stick Frying Pan Set,Home & Kitchen,32,45.99,1471.68,West
+2024-11-17,BOOK001,Python Programming Guide,Books,23,44.99,1034.77,West
+2024-11-17,CLTH004,Denim Jeans Classic,Clothing,15,45.52,682.8,West
+2024-11-17,SPRT002,Resistance Bands Set,Sports & Outdoors,25,16.21,405.25,East
+2024-11-17,ELEC001,Wireless Bluetooth Headphones,Electronics,48,79.99,3839.52,West
+2024-11-17,SPRT002,Resistance Bands Set,Sports & Outdoors,43,19.99,859.57,Central
+2024-11-17,CLTH004,Denim Jeans Classic,Clothing,31,54.99,1704.69,South
+2024-11-17,PETS002,Cat Scratching Post,Pet Supplies,45,44.99,2024.55,West
+2024-11-17,BEAU003,Electric Toothbrush,Beauty & Personal Care,10,49.99,499.9,South
+2024-11-17,CLTH002,Winter Jacket Women,Clothing,70,129.99,9099.3,North
+2024-11-18,HOME003,Air Fryer 5.5L,Home & Kitchen,10,129.99,1299.9,West
+2024-11-18,HOME001,Stainless Steel Coffee Maker,Home & Kitchen,25,77.62,1940.5,East
+2024-11-18,ELEC003,Portable Power Bank 20000mAh,Electronics,64,49.99,3199.36,East
+2024-11-18,TOYS001,Building Blocks Set 500pc,Toys & Games,7,39.99,279.93,North
+2024-11-18,OFFC003,Notebook Set Premium,Office Supplies,23,15.29,351.67,West
+2024-11-18,PETS002,Cat Scratching Post,Pet Supplies,9,44.99,404.91,West
+2024-11-18,ELEC004,Smart Watch Pro,Electronics,30,199.99,5999.7,Central
+2024-11-18,BEAU001,Vitamin C Serum,Beauty & Personal Care,16,27.36,437.76,West
+2024-11-19,SPRT004,Camping Tent 4-Person,Sports & Outdoors,36,132.79,4780.44,North
+2024-11-19,HOME002,Non-Stick Frying Pan Set,Home & Kitchen,45,45.99,2069.55,East
+2024-11-19,BOOK003,Mystery Novel Collection,Books,41,24.99,1024.59,West
+2024-11-19,OFFC004,Wireless Mouse,Office Supplies,40,29.99,1199.6,Central
+2024-11-19,PETS001,Dog Food Premium 10kg,Pet Supplies,21,54.99,1154.79,East
+2024-11-19,HOME003,Air Fryer 5.5L,Home & Kitchen,41,129.99,5329.59,South
+2024-11-19,OFFC004,Wireless Mouse,Office Supplies,18,29.99,539.82,Central
+2024-11-19,ELEC003,Portable Power Bank 20000mAh,Electronics,24,49.99,1199.76,Central
+2024-11-19,CLTH002,Winter Jacket Women,Clothing,67,129.99,8709.33,North
+2024-11-19,OFFC002,LED Desk Lamp,Office Supplies,29,39.99,1159.71,North
+2024-11-19,ELEC002,USB-C Fast Charger,Electronics,12,24.99,299.88,North
+2024-11-20,CLTH002,Winter Jacket Women,Clothing,10,129.99,1299.9,Central
+2024-11-20,BEAU002,Hair Dryer Professional,Beauty & Personal Care,43,59.99,2579.57,East
+2024-11-20,PETS003,Pet Carrier Medium,Pet Supplies,41,35.46,1453.86,East
+2024-11-20,FOOD003,Green Tea Collection,Food & Grocery,5,18.27,91.35,West
+2024-11-20,ELEC002,USB-C Fast Charger,Electronics,72,24.99,1799.28,North
+2024-11-20,ELEC003,Portable Power Bank 20000mAh,Electronics,22,49.99,1099.78,West
+2024-11-20,BEAU002,Hair Dryer Professional,Beauty & Personal Care,33,59.99,1979.67,West
+2024-11-20,OFFC002,LED Desk Lamp,Office Supplies,2,39.99,79.98,East
+2024-11-20,BOOK001,Python Programming Guide,Books,15,44.99,674.85,East
+2024-11-20,TOYS002,Board Game Strategy,Toys & Games,40,34.99,1399.6,West
+2024-11-20,SPRT002,Resistance Bands Set,Sports & Outdoors,1,17.46,17.46,North
+2024-11-20,HOME003,Air Fryer 5.5L,Home & Kitchen,36,114.63,4126.68,South
+2024-11-20,BOOK003,Mystery Novel Collection,Books,7,24.99,174.93,West
+2024-11-20,ELEC001,Wireless Bluetooth Headphones,Electronics,22,79.99,1759.78,West
+2024-11-20,ELEC002,USB-C Fast Charger,Electronics,54,24.99,1349.46,Central
+2024-11-20,OFFC004,Wireless Mouse,Office Supplies,24,29.99,719.76,West
+2024-11-20,ELEC003,Portable Power Bank 20000mAh,Electronics,72,49.99,3599.28,East
+2024-11-20,ELEC004,Smart Watch Pro,Electronics,60,199.99,11999.4,South
+2024-11-21,FOOD003,Green Tea Collection,Food & Grocery,30,19.99,599.7,North
+2024-11-21,ELEC002,USB-C Fast Charger,Electronics,51,24.99,1274.49,West
+2024-11-21,PETS002,Cat Scratching Post,Pet Supplies,21,44.99,944.79,East
+2024-11-21,OFFC002,LED Desk Lamp,Office Supplies,33,39.99,1319.67,West
+2024-11-21,SPRT001,Yoga Mat Premium,Sports & Outdoors,39,34.99,1364.61,West
+2024-11-21,CLTH003,Cotton T-Shirt Pack (3),Clothing,18,29.99,539.82,West
+2024-11-21,SPRT003,Hiking Backpack 40L,Sports & Outdoors,10,79.99,799.9,South
+2024-11-22,FOOD002,Protein Bars Box (12),Food & Grocery,17,29.99,509.83,South
+2024-11-22,BEAU001,Vitamin C Serum,Beauty & Personal Care,40,24.05,962.0,East
+2024-11-22,TOYS003,Remote Control Car,Toys & Games,45,43.91,1975.95,East
+2024-11-22,ELEC003,Portable Power Bank 20000mAh,Electronics,36,49.99,1799.64,South
+2024-11-22,BOOK003,Mystery Novel Collection,Books,9,24.99,224.91,West
+2024-11-22,ELEC004,Smart Watch Pro,Electronics,7,199.99,1399.93,East
+2024-11-22,TOYS001,Building Blocks Set 500pc,Toys & Games,32,34.11,1091.52,Central
+2024-11-22,BOOK002,The Art of Cooking,Books,44,32.99,1451.56,East
+2024-11-23,HOME001,Stainless Steel Coffee Maker,Home & Kitchen,50,89.99,4499.5,Central
+2024-11-23,OFFC003,Notebook Set Premium,Office Supplies,49,18.99,930.51,Central
+2024-11-23,CLTH002,Winter Jacket Women,Clothing,1,129.99,129.99,North
+2024-11-23,BEAU003,Electric Toothbrush,Beauty & Personal Care,47,40.05,1882.35,East
+2024-11-23,ELEC003,Portable Power Bank 20000mAh,Electronics,33,49.99,1649.67,South
+2024-11-23,CLTH001,Running Shoes Men,Clothing,69,89.99,6209.31,East
+2024-11-23,CLTH001,Running Shoes Men,Clothing,63,89.99,5669.37,West
+2024-11-23,PETS001,Dog Food Premium 10kg,Pet Supplies,36,54.99,1979.64,West
+2024-11-23,CLTH002,Winter Jacket Women,Clothing,40,129.99,5199.6,South
+2024-11-23,BOOK001,Python Programming Guide,Books,23,36.03,828.69,West
+2024-11-23,CLTH004,Denim Jeans Classic,Clothing,7,54.99,384.93,Central
+2024-11-23,OFFC003,Notebook Set Premium,Office Supplies,21,18.99,398.79,South
+2024-11-23,SPRT004,Camping Tent 4-Person,Sports & Outdoors,14,149.99,2099.86,East
+2024-11-23,CLTH004,Denim Jeans Classic,Clothing,55,54.99,3024.45,South
+2024-11-23,BOOK003,Mystery Novel Collection,Books,49,24.99,1224.51,North
+2024-11-24,CLTH003,Cotton T-Shirt Pack (3),Clothing,25,29.99,749.75,South
+2024-11-24,BEAU002,Hair Dryer Professional,Beauty & Personal Care,32,51.64,1652.48,East
+2024-11-24,CLTH004,Denim Jeans Classic,Clothing,12,54.99,659.88,South
+2024-11-24,TOYS003,Remote Control Car,Toys & Games,22,49.99,1099.78,East
+2024-11-24,CLTH003,Cotton T-Shirt Pack (3),Clothing,55,29.99,1649.45,North
+2024-11-24,OFFC004,Wireless Mouse,Office Supplies,18,29.99,539.82,South
+2024-11-24,BEAU003,Electric Toothbrush,Beauty & Personal Care,45,49.99,2249.55,North
+2024-11-24,PETS003,Pet Carrier Medium,Pet Supplies,2,39.99,79.98,West
+2024-11-24,ELEC003,Portable Power Bank 20000mAh,Electronics,19,49.99,949.81,Central
+2024-11-25,ELEC003,Portable Power Bank 20000mAh,Electronics,1,49.99,49.99,East
+2024-11-25,TOYS003,Remote Control Car,Toys & Games,24,49.99,1199.76,Central
+2024-11-25,TOYS001,Building Blocks Set 500pc,Toys & Games,30,37.52,1125.6,Central
+2024-11-25,HOME003,Air Fryer 5.5L,Home & Kitchen,5,129.99,649.95,North
+2024-11-25,ELEC003,Portable Power Bank 20000mAh,Electronics,10,49.99,499.9,West
+2024-11-25,OFFC001,Ergonomic Office Chair,Office Supplies,14,249.99,3499.86,North
+2024-11-25,FOOD002,Protein Bars Box (12),Food & Grocery,14,29.99,419.86,East
+2024-11-25,CLTH002,Winter Jacket Women,Clothing,3,129.99,389.97,South
+2024-11-25,PETS002,Cat Scratching Post,Pet Supplies,41,44.99,1844.59,Central
+2024-11-25,TOYS003,Remote Control Car,Toys & Games,6,49.99,299.94,North
+2024-11-25,HOME001,Stainless Steel Coffee Maker,Home & Kitchen,19,89.99,1709.81,South
+2024-11-25,FOOD003,Green Tea Collection,Food & Grocery,10,19.99,199.9,North
+2024-11-25,HOME001,Stainless Steel Coffee Maker,Home & Kitchen,1,89.99,89.99,Central
+2024-11-25,SPRT004,Camping Tent 4-Person,Sports & Outdoors,21,149.99,3149.79,North
+2024-11-25,TOYS001,Building Blocks Set 500pc,Toys & Games,25,36.73,918.25,West
+2024-11-26,CLTH003,Cotton T-Shirt Pack (3),Clothing,72,28.34,2040.48,North
+2024-11-26,HOME003,Air Fryer 5.5L,Home & Kitchen,13,129.99,1689.87,West
+2024-11-26,FOOD001,Organic Coffee Beans 1kg,Food & Grocery,38,24.99,949.62,Central
+2024-11-26,CLTH002,Winter Jacket Women,Clothing,6,129.99,779.94,Central
+2024-11-26,BOOK001,Python Programming Guide,Books,35,44.99,1574.65,East
+2024-11-26,BEAU002,Hair Dryer Professional,Beauty & Personal Care,8,59.99,479.92,Central
+2024-11-26,TOYS003,Remote Control Car,Toys & Games,41,49.99,2049.59,West
+2024-11-26,PETS002,Cat Scratching Post,Pet Supplies,14,42.43,594.02,South
+2024-11-27,ELEC002,USB-C Fast Charger,Electronics,43,24.99,1074.57,Central
+2024-11-27,TOYS001,Building Blocks Set 500pc,Toys & Games,50,39.99,1999.5,South
+2024-11-27,BOOK001,Python Programming Guide,Books,32,44.99,1439.68,South
+2024-11-27,PETS002,Cat Scratching Post,Pet Supplies,23,44.99,1034.77,North
+2024-11-27,SPRT003,Hiking Backpack 40L,Sports & Outdoors,12,79.99,959.88,West
+2024-11-27,OFFC002,LED Desk Lamp,Office Supplies,31,39.99,1239.69,South
+2024-11-27,BEAU002,Hair Dryer Professional,Beauty & Personal Care,22,59.99,1319.78,West
+2024-11-27,SPRT002,Resistance Bands Set,Sports & Outdoors,43,19.99,859.57,Central
+2024-11-27,CLTH003,Cotton T-Shirt Pack (3),Clothing,39,29.99,1169.61,East
+2024-11-27,ELEC002,USB-C Fast Charger,Electronics,70,24.99,1749.3,West
+2024-11-27,HOME003,Air Fryer 5.5L,Home & Kitchen,8,129.99,1039.92,Central
+2024-11-27,PETS002,Cat Scratching Post,Pet Supplies,4,44.99,179.96,Central
+2024-11-27,BOOK002,The Art of Cooking,Books,44,32.99,1451.56,West
+2024-11-27,BOOK003,Mystery Novel Collection,Books,16,24.99,399.84,North
+2024-11-27,PETS003,Pet Carrier Medium,Pet Supplies,13,39.99,519.87,West
+2024-11-28,SPRT002,Resistance Bands Set,Sports & Outdoors,9,19.99,179.91,East
+2024-11-28,BEAU002,Hair Dryer Professional,Beauty & Personal Care,48,59.99,2879.52,East
+2024-11-28,ELEC004,Smart Watch Pro,Electronics,28,199.99,5599.72,West
+2024-11-28,PETS001,Dog Food Premium 10kg,Pet Supplies,17,54.99,934.83,South
+2024-11-28,PETS003,Pet Carrier Medium,Pet Supplies,10,39.99,399.9,East
+2024-11-28,BEAU003,Electric Toothbrush,Beauty & Personal Care,9,49.99,449.91,East
+2024-11-28,CLTH003,Cotton T-Shirt Pack (3),Clothing,63,29.99,1889.37,West
+2024-11-28,PETS003,Pet Carrier Medium,Pet Supplies,20,39.99,799.8,South
+2024-11-28,CLTH001,Running Shoes Men,Clothing,69,89.99,6209.31,West
+2024-11-28,PETS001,Dog Food Premium 10kg,Pet Supplies,28,54.99,1539.72,Central
+2024-11-28,PETS002,Cat Scratching Post,Pet Supplies,49,44.99,2204.51,North
+2024-11-28,OFFC002,LED Desk Lamp,Office Supplies,44,34.05,1498.2,Central
+2024-11-29,HOME001,Stainless Steel Coffee Maker,Home & Kitchen,13,89.99,1169.87,East
+2024-11-29,CLTH001,Running Shoes Men,Clothing,1,74.23,74.23,North
+2024-11-29,SPRT001,Yoga Mat Premium,Sports & Outdoors,13,34.99,454.87,North
+2024-11-29,FOOD001,Organic Coffee Beans 1kg,Food & Grocery,21,24.99,524.79,West
+2024-11-29,PETS002,Cat Scratching Post,Pet Supplies,17,44.99,764.83,Central
+2024-11-29,OFFC003,Notebook Set Premium,Office Supplies,23,18.99,436.77,East
+2024-11-29,CLTH003,Cotton T-Shirt Pack (3),Clothing,6,25.02,150.12,Central
+2024-11-30,BEAU003,Electric Toothbrush,Beauty & Personal Care,22,46.83,1030.26,Central
+2024-11-30,PETS003,Pet Carrier Medium,Pet Supplies,16,39.99,639.84,West
+2024-11-30,BOOK003,Mystery Novel Collection,Books,38,24.99,949.62,Central
+2024-11-30,TOYS003,Remote Control Car,Toys & Games,20,41.44,828.8,East
+2024-11-30,OFFC004,Wireless Mouse,Office Supplies,23,25.52,586.96,Central
+2024-11-30,ELEC001,Wireless Bluetooth Headphones,Electronics,6,68.65,411.9,East
+2024-12-01,OFFC002,LED Desk Lamp,Office Supplies,17,39.99,679.83,East
+2024-12-01,BEAU003,Electric Toothbrush,Beauty & Personal Care,9,49.99,449.91,West
+2024-12-01,CLTH004,Denim Jeans Classic,Clothing,3,54.99,164.97,South
+2024-12-01,FOOD003,Green Tea Collection,Food & Grocery,13,19.99,259.87,North
+2024-12-01,ELEC003,Portable Power Bank 20000mAh,Electronics,15,40.21,603.15,Central
+2024-12-01,BEAU001,Vitamin C Serum,Beauty & Personal Care,28,28.99,811.72,North
+2024-12-01,SPRT003,Hiking Backpack 40L,Sports & Outdoors,26,74.21,1929.46,Central
+2024-12-01,HOME002,Non-Stick Frying Pan Set,Home & Kitchen,41,45.99,1885.59,Central
+2024-12-01,PETS003,Pet Carrier Medium,Pet Supplies,38,34.99,1329.62,South
+2024-12-01,OFFC003,Notebook Set Premium,Office Supplies,1,18.99,18.99,East
+2024-12-01,BOOK001,Python Programming Guide,Books,25,44.99,1124.75,North
+2024-12-01,BEAU002,Hair Dryer Professional,Beauty & Personal Care,38,52.74,2004.12,North
+2024-12-01,CLTH002,Winter Jacket Women,Clothing,54,129.99,7019.46,Central
+2024-12-01,OFFC003,Notebook Set Premium,Office Supplies,25,15.58,389.5,North
+2024-12-01,BOOK003,Mystery Novel Collection,Books,1,23.67,23.67,East
+2024-12-02,PETS003,Pet Carrier Medium,Pet Supplies,9,37.96,341.64,South
+2024-12-02,ELEC003,Portable Power Bank 20000mAh,Electronics,3,49.99,149.97,West
+2024-12-02,CLTH003,Cotton T-Shirt Pack (3),Clothing,42,29.99,1259.58,North
+2024-12-02,SPRT002,Resistance Bands Set,Sports & Outdoors,46,17.23,792.58,Central
+2024-12-02,SPRT004,Camping Tent 4-Person,Sports & Outdoors,10,149.99,1499.9,Central
+2024-12-02,BEAU003,Electric Toothbrush,Beauty & Personal Care,15,41.02,615.3,West
+2024-12-02,CLTH004,Denim Jeans Classic,Clothing,70,54.99,3849.3,West
+2024-12-02,OFFC004,Wireless Mouse,Office Supplies,13,29.99,389.87,West
+2024-12-02,PETS002,Cat Scratching Post,Pet Supplies,27,37.21,1004.67,South
+2024-12-02,CLTH004,Denim Jeans Classic,Clothing,6,54.99,329.94,East
+2024-12-02,CLTH003,Cotton T-Shirt Pack (3),Clothing,60,29.99,1799.4,East
+2024-12-02,OFFC004,Wireless Mouse,Office Supplies,50,29.99,1499.5,West
+2024-12-02,ELEC003,Portable Power Bank 20000mAh,Electronics,46,49.99,2299.54,North
+2024-12-03,BOOK001,Python Programming Guide,Books,8,44.99,359.92,North
+2024-12-03,PETS002,Cat Scratching Post,Pet Supplies,11,44.99,494.89,West
+2024-12-03,HOME001,Stainless Steel Coffee Maker,Home & Kitchen,23,89.99,2069.77,West
+2024-12-03,SPRT002,Resistance Bands Set,Sports & Outdoors,16,19.99,319.84,Central
+2024-12-03,BEAU003,Electric Toothbrush,Beauty & Personal Care,21,49.99,1049.79,East
+2024-12-03,SPRT004,Camping Tent 4-Person,Sports & Outdoors,10,149.99,1499.9,Central
+2024-12-03,SPRT002,Resistance Bands Set,Sports & Outdoors,12,16.34,196.08,West
+2024-12-03,TOYS003,Remote Control Car,Toys & Games,7,49.99,349.93,West
+2024-12-03,FOOD003,Green Tea Collection,Food & Grocery,15,19.99,299.85,East
+2024-12-03,FOOD001,Organic Coffee Beans 1kg,Food & Grocery,10,24.99,249.9,Central
+2024-12-04,PETS001,Dog Food Premium 10kg,Pet Supplies,45,54.99,2474.55,Central
+2024-12-04,OFFC001,Ergonomic Office Chair,Office Supplies,47,249.99,11749.53,South
+2024-12-04,TOYS002,Board Game Strategy,Toys & Games,25,31.37,784.25,East
+2024-12-04,FOOD002,Protein Bars Box (12),Food & Grocery,50,29.99,1499.5,Central
+2024-12-04,FOOD002,Protein Bars Box (12),Food & Grocery,8,29.99,239.92,West
+2024-12-04,HOME003,Air Fryer 5.5L,Home & Kitchen,33,129.99,4289.67,West
+2024-12-04,HOME001,Stainless Steel Coffee Maker,Home & Kitchen,19,89.99,1709.81,Central
+2024-12-04,CLTH003,Cotton T-Shirt Pack (3),Clothing,63,29.99,1889.37,East
+2024-12-04,HOME002,Non-Stick Frying Pan Set,Home & Kitchen,12,45.99,551.88,North
+2024-12-04,CLTH003,Cotton T-Shirt Pack (3),Clothing,7,26.41,184.87,South
+2024-12-04,HOME001,Stainless Steel Coffee Maker,Home & Kitchen,21,75.08,1576.68,Central
+2024-12-04,SPRT003,Hiking Backpack 40L,Sports & Outdoors,26,79.99,2079.74,North
+2024-12-05,CLTH002,Winter Jacket Women,Clothing,52,129.99,6759.48,Central
+2024-12-05,SPRT004,Camping Tent 4-Person,Sports & Outdoors,16,149.99,2399.84,Central
+2024-12-05,BEAU001,Vitamin C Serum,Beauty & Personal Care,50,25.62,1281.0,East
+2024-12-05,HOME003,Air Fryer 5.5L,Home & Kitchen,29,129.99,3769.71,West
+2024-12-05,HOME002,Non-Stick Frying Pan Set,Home & Kitchen,28,45.99,1287.72,South
+2024-12-05,BEAU003,Electric Toothbrush,Beauty & Personal Care,1,49.99,49.99,West
+2024-12-05,HOME002,Non-Stick Frying Pan Set,Home & Kitchen,46,45.99,2115.54,East
+2024-12-05,ELEC001,Wireless Bluetooth Headphones,Electronics,34,79.99,2719.66,Central
+2024-12-06,FOOD002,Protein Bars Box (12),Food & Grocery,44,29.99,1319.56,East
+2024-12-06,OFFC004,Wireless Mouse,Office Supplies,41,29.99,1229.59,West
+2024-12-06,CLTH002,Winter Jacket Women,Clothing,28,129.99,3639.72,East
+2024-12-06,HOME003,Air Fryer 5.5L,Home & Kitchen,21,129.99,2729.79,East
+2024-12-06,BEAU002,Hair Dryer Professional,Beauty & Personal Care,20,54.07,1081.4,North
+2024-12-06,OFFC001,Ergonomic Office Chair,Office Supplies,39,249.99,9749.61,South
+2024-12-07,OFFC002,LED Desk Lamp,Office Supplies,14,39.99,559.86,North
+2024-12-07,TOYS003,Remote Control Car,Toys & Games,43,49.99,2149.57,West
+2024-12-07,HOME002,Non-Stick Frying Pan Set,Home & Kitchen,47,45.99,2161.53,Central
+2024-12-07,HOME002,Non-Stick Frying Pan Set,Home & Kitchen,2,45.99,91.98,East
+2024-12-07,SPRT001,Yoga Mat Premium,Sports & Outdoors,32,34.99,1119.68,Central
+2024-12-07,ELEC002,USB-C Fast Charger,Electronics,18,24.99,449.82,West
+2024-12-07,OFFC003,Notebook Set Premium,Office Supplies,48,18.99,911.52,East
+2024-12-07,SPRT004,Camping Tent 4-Person,Sports & Outdoors,46,149.99,6899.54,Central
+2024-12-07,PETS002,Cat Scratching Post,Pet Supplies,38,44.99,1709.62,South
+2024-12-07,BOOK003,Mystery Novel Collection,Books,14,24.99,349.86,West
+2024-12-07,BOOK002,The Art of Cooking,Books,32,32.99,1055.68,Central
+2024-12-07,FOOD001,Organic Coffee Beans 1kg,Food & Grocery,3,24.99,74.97,South
+2024-12-07,PETS003,Pet Carrier Medium,Pet Supplies,48,39.99,1919.52,East
+2024-12-07,CLTH002,Winter Jacket Women,Clothing,25,129.99,3249.75,Central
+2024-12-07,FOOD003,Green Tea Collection,Food & Grocery,2,16.34,32.68,Central
+2024-12-08,CLTH004,Denim Jeans Classic,Clothing,36,54.99,1979.64,North
+2024-12-08,TOYS002,Board Game Strategy,Toys & Games,37,34.99,1294.63,North
+2024-12-08,CLTH001,Running Shoes Men,Clothing,1,89.99,89.99,North
+2024-12-08,ELEC004,Smart Watch Pro,Electronics,69,183.89,12688.41,North
+2024-12-08,CLTH001,Running Shoes Men,Clothing,43,89.99,3869.57,North
+2024-12-08,FOOD003,Green Tea Collection,Food & Grocery,6,19.99,119.94,West
+2024-12-09,ELEC003,Portable Power Bank 20000mAh,Electronics,24,49.99,1199.76,South
+2024-12-09,ELEC003,Portable Power Bank 20000mAh,Electronics,1,49.99,49.99,North
+2024-12-09,ELEC003,Portable Power Bank 20000mAh,Electronics,49,49.99,2449.51,South
+2024-12-09,TOYS003,Remote Control Car,Toys & Games,19,49.99,949.81,North
+2024-12-09,BEAU002,Hair Dryer Professional,Beauty & Personal Care,37,59.99,2219.63,Central
+2024-12-09,SPRT002,Resistance Bands Set,Sports & Outdoors,37,19.99,739.63,West
+2024-12-09,TOYS003,Remote Control Car,Toys & Games,37,49.99,1849.63,North
+2024-12-09,BEAU002,Hair Dryer Professional,Beauty & Personal Care,41,59.99,2459.59,Central
+2024-12-09,CLTH003,Cotton T-Shirt Pack (3),Clothing,15,29.99,449.85,South
+2024-12-09,BEAU001,Vitamin C Serum,Beauty & Personal Care,39,28.99,1130.61,North
+2024-12-09,ELEC004,Smart Watch Pro,Electronics,69,199.99,13799.31,South
+2024-12-10,BEAU002,Hair Dryer Professional,Beauty & Personal Care,16,59.99,959.84,North
+2024-12-10,ELEC001,Wireless Bluetooth Headphones,Electronics,27,79.99,2159.73,Central
+2024-12-10,CLTH001,Running Shoes Men,Clothing,10,89.99,899.9,West
+2024-12-10,ELEC004,Smart Watch Pro,Electronics,4,199.99,799.96,South
+2024-12-10,FOOD003,Green Tea Collection,Food & Grocery,24,19.99,479.76,East
+2024-12-10,ELEC001,Wireless Bluetooth Headphones,Electronics,31,79.99,2479.69,West
+2024-12-10,SPRT003,Hiking Backpack 40L,Sports & Outdoors,13,79.99,1039.87,Central
+2024-12-10,CLTH003,Cotton T-Shirt Pack (3),Clothing,34,29.99,1019.66,North
+2024-12-10,OFFC004,Wireless Mouse,Office Supplies,25,29.99,749.75,West
+2024-12-10,PETS002,Cat Scratching Post,Pet Supplies,14,44.99,629.86,West
+2024-12-10,BEAU001,Vitamin C Serum,Beauty & Personal Care,42,28.99,1217.58,South
+2024-12-10,HOME002,Non-Stick Frying Pan Set,Home & Kitchen,29,45.99,1333.71,North
+2024-12-10,TOYS003,Remote Control Car,Toys & Games,14,49.99,699.86,West
+2024-12-10,CLTH003,Cotton T-Shirt Pack (3),Clothing,12,29.99,359.88,North
+2024-12-11,HOME002,Non-Stick Frying Pan Set,Home & Kitchen,35,45.99,1609.65,Central
+2024-12-11,FOOD002,Protein Bars Box (12),Food & Grocery,50,29.99,1499.5,West
+2024-12-11,ELEC001,Wireless Bluetooth Headphones,Electronics,49,74.88,3669.12,North
+2024-12-11,FOOD002,Protein Bars Box (12),Food & Grocery,17,27.1,460.7,East
+2024-12-11,BEAU003,Electric Toothbrush,Beauty & Personal Care,24,49.99,1199.76,East
+2024-12-11,TOYS001,Building Blocks Set 500pc,Toys & Games,43,39.99,1719.57,East
+2024-12-11,CLTH002,Winter Jacket Women,Clothing,4,129.99,519.96,South
+2024-12-11,FOOD002,Protein Bars Box (12),Food & Grocery,39,29.99,1169.61,South
+2024-12-11,CLTH004,Denim Jeans Classic,Clothing,70,45.98,3218.6,North
+2024-12-11,BEAU001,Vitamin C Serum,Beauty & Personal Care,36,28.99,1043.64,Central
+2024-12-11,ELEC004,Smart Watch Pro,Electronics,52,178.54,9284.08,Central
+2024-12-12,HOME002,Non-Stick Frying Pan Set,Home & Kitchen,40,45.99,1839.6,South
+2024-12-12,PETS001,Dog Food Premium 10kg,Pet Supplies,43,54.99,2364.57,North
+2024-12-12,CLTH003,Cotton T-Shirt Pack (3),Clothing,36,29.99,1079.64,North
+2024-12-12,ELEC003,Portable Power Bank 20000mAh,Electronics,19,49.99,949.81,South
+2024-12-12,BEAU002,Hair Dryer Professional,Beauty & Personal Care,17,59.99,1019.83,Central
+2024-12-12,FOOD001,Organic Coffee Beans 1kg,Food & Grocery,3,21.04,63.12,North
+2024-12-12,BOOK002,The Art of Cooking,Books,37,32.99,1220.63,East
+2024-12-12,TOYS003,Remote Control Car,Toys & Games,18,49.99,899.82,West
+2024-12-12,ELEC003,Portable Power Bank 20000mAh,Electronics,21,49.99,1049.79,North
+2024-12-12,BEAU002,Hair Dryer Professional,Beauty & Personal Care,44,59.99,2639.56,Central
+2024-12-13,PETS003,Pet Carrier Medium,Pet Supplies,26,32.11,834.86,Central
+2024-12-13,ELEC004,Smart Watch Pro,Electronics,67,179.35,12016.45,North
+2024-12-13,SPRT004,Camping Tent 4-Person,Sports & Outdoors,28,149.99,4199.72,Central
+2024-12-13,HOME003,Air Fryer 5.5L,Home & Kitchen,7,129.99,909.93,East
+2024-12-13,TOYS002,Board Game Strategy,Toys & Games,49,34.99,1714.51,Central
+2024-12-13,FOOD002,Protein Bars Box (12),Food & Grocery,26,29.99,779.74,West
+2024-12-13,OFFC002,LED Desk Lamp,Office Supplies,30,39.99,1199.7,Central
+2024-12-13,FOOD003,Green Tea Collection,Food & Grocery,26,19.99,519.74,Central
+2024-12-13,SPRT001,Yoga Mat Premium,Sports & Outdoors,47,34.99,1644.53,North
+2024-12-13,CLTH002,Winter Jacket Women,Clothing,19,114.89,2182.91,West
+2024-12-14,PETS001,Dog Food Premium 10kg,Pet Supplies,19,50.08,951.52,North
+2024-12-14,OFFC002,LED Desk Lamp,Office Supplies,9,39.99,359.91,East
+2024-12-14,PETS003,Pet Carrier Medium,Pet Supplies,21,39.99,839.79,Central
+2024-12-14,ELEC004,Smart Watch Pro,Electronics,64,199.99,12799.36,South
+2024-12-14,BOOK001,Python Programming Guide,Books,16,44.99,719.84,Central
+2024-12-14,SPRT004,Camping Tent 4-Person,Sports & Outdoors,36,149.99,5399.64,Central
+2024-12-14,ELEC004,Smart Watch Pro,Electronics,42,164.85,6923.7,North
+2024-12-15,SPRT003,Hiking Backpack 40L,Sports & Outdoors,43,79.99,3439.57,Central
+2024-12-15,TOYS003,Remote Control Car,Toys & Games,28,45.51,1274.28,East
+2024-12-15,FOOD001,Organic Coffee Beans 1kg,Food & Grocery,38,24.99,949.62,West
+2024-12-15,SPRT004,Camping Tent 4-Person,Sports & Outdoors,49,136.75,6700.75,North
+2024-12-15,OFFC003,Notebook Set Premium,Office Supplies,42,18.99,797.58,North
+2024-12-15,CLTH004,Denim Jeans Classic,Clothing,43,54.99,2364.57,South
+2024-12-15,PETS001,Dog Food Premium 10kg,Pet Supplies,22,54.99,1209.78,South
+2024-12-15,CLTH004,Denim Jeans Classic,Clothing,67,54.99,3684.33,South
+2024-12-15,BEAU002,Hair Dryer Professional,Beauty & Personal Care,25,59.99,1499.75,South
+2024-12-15,CLTH002,Winter Jacket Women,Clothing,22,112.43,2473.46,South
+2024-12-16,PETS003,Pet Carrier Medium,Pet Supplies,3,39.99,119.97,South
+2024-12-16,PETS002,Cat Scratching Post,Pet Supplies,6,44.99,269.94,West
+2024-12-16,PETS001,Dog Food Premium 10kg,Pet Supplies,4,54.99,219.96,East
+2024-12-16,TOYS001,Building Blocks Set 500pc,Toys & Games,24,33.53,804.72,Central
+2024-12-16,BOOK001,Python Programming Guide,Books,36,37.06,1334.16,Central
+2024-12-16,SPRT004,Camping Tent 4-Person,Sports & Outdoors,9,149.99,1349.91,Central
+2024-12-16,PETS003,Pet Carrier Medium,Pet Supplies,49,37.47,1836.03,East
+2024-12-16,PETS003,Pet Carrier Medium,Pet Supplies,26,33.71,876.46,Central
+2024-12-16,HOME002,Non-Stick Frying Pan Set,Home & Kitchen,25,38.56,964.0,West
+2024-12-16,PETS003,Pet Carrier Medium,Pet Supplies,39,39.99,1559.61,East
+2024-12-16,TOYS002,Board Game Strategy,Toys & Games,7,34.99,244.93,West
+2024-12-16,ELEC002,USB-C Fast Charger,Electronics,43,24.99,1074.57,East
+2024-12-16,TOYS002,Board Game Strategy,Toys & Games,12,34.99,419.88,South
+2024-12-17,FOOD003,Green Tea Collection,Food & Grocery,39,19.99,779.61,South
+2024-12-17,PETS003,Pet Carrier Medium,Pet Supplies,13,32.98,428.74,Central
+2024-12-17,SPRT004,Camping Tent 4-Person,Sports & Outdoors,29,149.99,4349.71,Central
+2024-12-17,HOME002,Non-Stick Frying Pan Set,Home & Kitchen,3,41.76,125.28,East
+2024-12-17,TOYS001,Building Blocks Set 500pc,Toys & Games,15,39.99,599.85,South
+2024-12-17,PETS001,Dog Food Premium 10kg,Pet Supplies,32,54.99,1759.68,West
+2024-12-17,TOYS002,Board Game Strategy,Toys & Games,43,34.99,1504.57,North
+2024-12-17,BOOK003,Mystery Novel Collection,Books,31,24.99,774.69,Central
+2024-12-17,BEAU003,Electric Toothbrush,Beauty & Personal Care,12,47.31,567.72,Central
+2024-12-17,BOOK001,Python Programming Guide,Books,37,44.99,1664.63,East
+2024-12-17,PETS001,Dog Food Premium 10kg,Pet Supplies,30,54.99,1649.7,West
+2024-12-17,FOOD002,Protein Bars Box (12),Food & Grocery,16,29.99,479.84,North
+2024-12-17,SPRT001,Yoga Mat Premium,Sports & Outdoors,50,32.23,1611.5,West
+2024-12-17,FOOD001,Organic Coffee Beans 1kg,Food & Grocery,39,24.99,974.61,West
+2024-12-17,BEAU001,Vitamin C Serum,Beauty & Personal Care,15,28.99,434.85,North
+2024-12-17,OFFC004,Wireless Mouse,Office Supplies,30,29.99,899.7,Central
+2024-12-17,TOYS002,Board Game Strategy,Toys & Games,15,34.99,524.85,East
+2024-12-18,OFFC001,Ergonomic Office Chair,Office Supplies,50,249.99,12499.5,North
+2024-12-18,HOME001,Stainless Steel Coffee Maker,Home & Kitchen,23,83.14,1912.22,East
+2024-12-18,CLTH003,Cotton T-Shirt Pack (3),Clothing,55,29.99,1649.45,West
+2024-12-18,BOOK001,Python Programming Guide,Books,43,38.75,1666.25,South
+2024-12-18,SPRT001,Yoga Mat Premium,Sports & Outdoors,46,34.99,1609.54,North
+2024-12-18,PETS001,Dog Food Premium 10kg,Pet Supplies,33,54.99,1814.67,North
+2024-12-18,BOOK001,Python Programming Guide,Books,46,44.99,2069.54,Central
+2024-12-18,BEAU001,Vitamin C Serum,Beauty & Personal Care,27,28.99,782.73,North
+2024-12-18,PETS003,Pet Carrier Medium,Pet Supplies,2,39.99,79.98,East
+2024-12-18,TOYS002,Board Game Strategy,Toys & Games,21,34.99,734.79,Central
+2024-12-19,FOOD001,Organic Coffee Beans 1kg,Food & Grocery,9,24.99,224.91,West
+2024-12-19,BOOK002,The Art of Cooking,Books,33,32.99,1088.67,South
+2024-12-19,CLTH002,Winter Jacket Women,Clothing,13,129.99,1689.87,Central
+2024-12-19,HOME003,Air Fryer 5.5L,Home & Kitchen,34,129.99,4419.66,East
+2024-12-19,PETS001,Dog Food Premium 10kg,Pet Supplies,27,54.99,1484.73,West
+2024-12-19,BOOK003,Mystery Novel Collection,Books,46,24.99,1149.54,East
+2024-12-19,CLTH001,Running Shoes Men,Clothing,75,89.99,6749.25,North
+2024-12-19,SPRT001,Yoga Mat Premium,Sports & Outdoors,10,34.99,349.9,South
+2024-12-19,ELEC003,Portable Power Bank 20000mAh,Electronics,34,40.09,1363.06,East
+2024-12-20,CLTH002,Winter Jacket Women,Clothing,61,113.56,6927.16,Central
+2024-12-20,TOYS001,Building Blocks Set 500pc,Toys & Games,36,39.99,1439.64,Central
+2024-12-20,ELEC004,Smart Watch Pro,Electronics,3,199.99,599.97,West
+2024-12-20,BEAU002,Hair Dryer Professional,Beauty & Personal Care,14,49.15,688.1,Central
+2024-12-20,SPRT002,Resistance Bands Set,Sports & Outdoors,49,19.99,979.51,East
+2024-12-20,ELEC003,Portable Power Bank 20000mAh,Electronics,69,49.99,3449.31,North
+2024-12-20,SPRT003,Hiking Backpack 40L,Sports & Outdoors,35,79.99,2799.65,East
+2024-12-20,CLTH001,Running Shoes Men,Clothing,1,89.99,89.99,South
+2024-12-21,OFFC004,Wireless Mouse,Office Supplies,33,29.99,989.67,North
+2024-12-21,CLTH003,Cotton T-Shirt Pack (3),Clothing,49,29.99,1469.51,North
+2024-12-21,OFFC004,Wireless Mouse,Office Supplies,13,29.99,389.87,South
+2024-12-21,TOYS001,Building Blocks Set 500pc,Toys & Games,33,39.99,1319.67,East
+2024-12-21,CLTH002,Winter Jacket Women,Clothing,61,129.99,7929.39,South
+2024-12-21,SPRT001,Yoga Mat Premium,Sports & Outdoors,31,34.99,1084.69,East
+2024-12-21,HOME001,Stainless Steel Coffee Maker,Home & Kitchen,31,89.99,2789.69,Central
+2024-12-21,ELEC001,Wireless Bluetooth Headphones,Electronics,6,79.99,479.94,East
+2024-12-21,CLTH003,Cotton T-Shirt Pack (3),Clothing,27,29.99,809.73,West
+2024-12-21,TOYS002,Board Game Strategy,Toys & Games,48,34.99,1679.52,West
+2024-12-21,PETS003,Pet Carrier Medium,Pet Supplies,11,39.99,439.89,Central
+2024-12-21,BEAU002,Hair Dryer Professional,Beauty & Personal Care,11,59.99,659.89,West
+2024-12-21,CLTH004,Denim Jeans Classic,Clothing,39,54.99,2144.61,Central
+2024-12-21,OFFC004,Wireless Mouse,Office Supplies,49,29.99,1469.51,East
+2024-12-21,CLTH004,Denim Jeans Classic,Clothing,19,54.99,1044.81,Central
+2024-12-21,CLTH004,Denim Jeans Classic,Clothing,31,54.99,1704.69,Central
+2024-12-22,TOYS001,Building Blocks Set 500pc,Toys & Games,10,39.99,399.9,South
+2024-12-22,CLTH004,Denim Jeans Classic,Clothing,72,54.99,3959.28,East
+2024-12-22,ELEC003,Portable Power Bank 20000mAh,Electronics,72,49.99,3599.28,South
+2024-12-22,OFFC003,Notebook Set Premium,Office Supplies,4,18.99,75.96,East
+2024-12-22,CLTH003,Cotton T-Shirt Pack (3),Clothing,6,29.99,179.94,West
+2024-12-22,SPRT004,Camping Tent 4-Person,Sports & Outdoors,27,149.99,4049.73,East
+2024-12-22,BOOK002,The Art of Cooking,Books,20,30.31,606.2,Central
+2024-12-22,OFFC002,LED Desk Lamp,Office Supplies,19,39.99,759.81,North
+2024-12-22,CLTH002,Winter Jacket Women,Clothing,18,129.99,2339.82,South
+2024-12-22,TOYS001,Building Blocks Set 500pc,Toys & Games,3,39.99,119.97,East
+2024-12-22,TOYS003,Remote Control Car,Toys & Games,20,49.99,999.8,West
+2024-12-23,BEAU003,Electric Toothbrush,Beauty & Personal Care,41,49.99,2049.59,South
+2024-12-23,TOYS003,Remote Control Car,Toys & Games,31,49.99,1549.69,East
+2024-12-23,HOME001,Stainless Steel Coffee Maker,Home & Kitchen,2,89.99,179.98,West
+2024-12-23,PETS002,Cat Scratching Post,Pet Supplies,38,44.99,1709.62,East
+2024-12-23,OFFC004,Wireless Mouse,Office Supplies,32,29.99,959.68,South
+2024-12-23,SPRT004,Camping Tent 4-Person,Sports & Outdoors,49,149.99,7349.51,Central
+2024-12-23,FOOD001,Organic Coffee Beans 1kg,Food & Grocery,49,23.32,1142.68,North
+2024-12-23,CLTH001,Running Shoes Men,Clothing,13,89.99,1169.87,East
+2024-12-23,OFFC002,LED Desk Lamp,Office Supplies,21,39.99,839.79,South
+2024-12-23,BOOK001,Python Programming Guide,Books,39,44.99,1754.61,West
+2024-12-23,CLTH004,Denim Jeans Classic,Clothing,19,54.99,1044.81,North
+2024-12-24,PETS003,Pet Carrier Medium,Pet Supplies,10,39.99,399.9,East
+2024-12-24,ELEC002,USB-C Fast Charger,Electronics,49,24.99,1224.51,North
+2024-12-24,ELEC001,Wireless Bluetooth Headphones,Electronics,9,75.41,678.69,West
+2024-12-24,BEAU002,Hair Dryer Professional,Beauty & Personal Care,14,59.99,839.86,West
+2024-12-24,ELEC002,USB-C Fast Charger,Electronics,22,24.99,549.78,Central
+2024-12-24,TOYS001,Building Blocks Set 500pc,Toys & Games,5,39.99,199.95,Central
+2024-12-24,OFFC002,LED Desk Lamp,Office Supplies,37,39.99,1479.63,West
+2024-12-24,ELEC003,Portable Power Bank 20000mAh,Electronics,58,49.99,2899.42,North
+2024-12-24,BEAU002,Hair Dryer Professional,Beauty & Personal Care,40,59.99,2399.6,South
+2024-12-24,HOME002,Non-Stick Frying Pan Set,Home & Kitchen,35,45.99,1609.65,Central
+2024-12-24,BOOK001,Python Programming Guide,Books,37,44.99,1664.63,Central
+2024-12-24,HOME001,Stainless Steel Coffee Maker,Home & Kitchen,18,89.99,1619.82,North
+2024-12-24,CLTH001,Running Shoes Men,Clothing,13,89.99,1169.87,Central
+2024-12-24,BEAU002,Hair Dryer Professional,Beauty & Personal Care,20,53.74,1074.8,West
+2024-12-24,OFFC002,LED Desk Lamp,Office Supplies,11,39.99,439.89,East
+2024-12-25,SPRT003,Hiking Backpack 40L,Sports & Outdoors,29,79.99,2319.71,North
+2024-12-25,CLTH003,Cotton T-Shirt Pack (3),Clothing,61,29.99,1829.39,South
+2024-12-25,HOME002,Non-Stick Frying Pan Set,Home & Kitchen,40,45.99,1839.6,Central
+2024-12-25,PETS001,Dog Food Premium 10kg,Pet Supplies,32,54.99,1759.68,East
+2024-12-25,TOYS002,Board Game Strategy,Toys & Games,32,34.99,1119.68,North
+2024-12-25,HOME001,Stainless Steel Coffee Maker,Home & Kitchen,9,81.79,736.11,West
+2024-12-25,PETS003,Pet Carrier Medium,Pet Supplies,10,32.86,328.6,South
+2024-12-25,ELEC002,USB-C Fast Charger,Electronics,42,24.99,1049.58,Central
+2024-12-25,ELEC001,Wireless Bluetooth Headphones,Electronics,9,74.91,674.19,Central
+2024-12-25,PETS003,Pet Carrier Medium,Pet Supplies,40,39.99,1599.6,East
+2024-12-25,CLTH002,Winter Jacket Women,Clothing,39,116.45,4541.55,Central
+2024-12-25,ELEC002,USB-C Fast Charger,Electronics,13,24.99,324.87,East
+2024-12-25,BEAU002,Hair Dryer Professional,Beauty & Personal Care,10,59.99,599.9,South
+2024-12-26,HOME001,Stainless Steel Coffee Maker,Home & Kitchen,33,89.99,2969.67,Central
+2024-12-26,SPRT002,Resistance Bands Set,Sports & Outdoors,39,19.99,779.61,East
+2024-12-26,SPRT003,Hiking Backpack 40L,Sports & Outdoors,4,79.99,319.96,North
+2024-12-26,BOOK002,The Art of Cooking,Books,46,30.71,1412.66,West
+2024-12-26,BOOK001,Python Programming Guide,Books,39,44.99,1754.61,Central
+2024-12-26,FOOD003,Green Tea Collection,Food & Grocery,37,17.26,638.62,West
+2024-12-26,HOME003,Air Fryer 5.5L,Home & Kitchen,34,129.99,4419.66,Central
+2024-12-26,CLTH003,Cotton T-Shirt Pack (3),Clothing,13,29.99,389.87,South
+2024-12-26,FOOD002,Protein Bars Box (12),Food & Grocery,41,29.99,1229.59,Central
+2024-12-27,PETS001,Dog Food Premium 10kg,Pet Supplies,26,54.99,1429.74,North
+2024-12-27,OFFC001,Ergonomic Office Chair,Office Supplies,14,210.99,2953.86,East
+2024-12-27,ELEC002,USB-C Fast Charger,Electronics,16,24.99,399.84,North
+2024-12-27,FOOD002,Protein Bars Box (12),Food & Grocery,16,29.99,479.84,North
+2024-12-27,OFFC003,Notebook Set Premium,Office Supplies,6,17.29,103.74,South
+2024-12-27,ELEC001,Wireless Bluetooth Headphones,Electronics,55,79.99,4399.45,Central
+2024-12-27,CLTH001,Running Shoes Men,Clothing,70,89.99,6299.3,South
+2024-12-27,FOOD003,Green Tea Collection,Food & Grocery,41,17.09,700.69,South
+2024-12-27,CLTH003,Cotton T-Shirt Pack (3),Clothing,21,29.99,629.79,West
+2024-12-27,FOOD003,Green Tea Collection,Food & Grocery,15,19.99,299.85,Central
+2024-12-27,OFFC002,LED Desk Lamp,Office Supplies,11,39.99,439.89,South
+2024-12-27,CLTH001,Running Shoes Men,Clothing,7,89.99,629.93,East
+2024-12-27,PETS002,Cat Scratching Post,Pet Supplies,23,44.99,1034.77,North
+2024-12-28,BOOK002,The Art of Cooking,Books,28,26.83,751.24,West
+2024-12-28,ELEC001,Wireless Bluetooth Headphones,Electronics,36,79.99,2879.64,South
+2024-12-28,HOME002,Non-Stick Frying Pan Set,Home & Kitchen,40,39.57,1582.8,West
+2024-12-28,ELEC004,Smart Watch Pro,Electronics,40,199.99,7999.6,Central
+2024-12-28,PETS001,Dog Food Premium 10kg,Pet Supplies,21,54.99,1154.79,Central
+2024-12-28,ELEC003,Portable Power Bank 20000mAh,Electronics,60,49.99,2999.4,West
+2024-12-28,ELEC002,USB-C Fast Charger,Electronics,16,24.99,399.84,South
+2024-12-29,HOME002,Non-Stick Frying Pan Set,Home & Kitchen,31,45.99,1425.69,Central
+2024-12-29,CLTH003,Cotton T-Shirt Pack (3),Clothing,31,29.99,929.69,East
+2024-12-29,HOME003,Air Fryer 5.5L,Home & Kitchen,7,129.99,909.93,East
+2024-12-29,BOOK001,Python Programming Guide,Books,41,36.66,1503.06,East
+2024-12-29,SPRT001,Yoga Mat Premium,Sports & Outdoors,27,34.99,944.73,South
+2024-12-29,BOOK002,The Art of Cooking,Books,6,32.99,197.94,West
+2024-12-29,OFFC004,Wireless Mouse,Office Supplies,46,29.99,1379.54,West
+2024-12-29,CLTH003,Cotton T-Shirt Pack (3),Clothing,6,29.99,179.94,Central
+2024-12-29,ELEC002,USB-C Fast Charger,Electronics,28,24.99,699.72,West
+2024-12-29,ELEC001,Wireless Bluetooth Headphones,Electronics,37,79.99,2959.63,North
+2024-12-29,HOME003,Air Fryer 5.5L,Home & Kitchen,19,118.77,2256.63,Central
+2024-12-29,OFFC003,Notebook Set Premium,Office Supplies,20,18.99,379.8,West
+2024-12-29,BOOK003,Mystery Novel Collection,Books,45,24.99,1124.55,North
+2024-12-29,ELEC002,USB-C Fast Charger,Electronics,39,24.99,974.61,West
+2024-12-29,TOYS003,Remote Control Car,Toys & Games,22,43.64,960.08,North
+2024-12-30,FOOD003,Green Tea Collection,Food & Grocery,28,19.99,559.72,South
+2024-12-30,FOOD003,Green Tea Collection,Food & Grocery,18,19.99,359.82,North
+2024-12-30,ELEC001,Wireless Bluetooth Headphones,Electronics,28,79.99,2239.72,South
+2024-12-30,PETS002,Cat Scratching Post,Pet Supplies,12,44.99,539.88,Central
+2024-12-30,TOYS003,Remote Control Car,Toys & Games,17,49.99,849.83,East
+2024-12-30,HOME001,Stainless Steel Coffee Maker,Home & Kitchen,45,89.99,4049.55,South
+2024-12-30,BOOK001,Python Programming Guide,Books,6,44.99,269.94,East
+2024-12-30,OFFC002,LED Desk Lamp,Office Supplies,44,39.99,1759.56,Central
+2024-12-30,HOME003,Air Fryer 5.5L,Home & Kitchen,21,129.99,2729.79,West
+2024-12-30,TOYS002,Board Game Strategy,Toys & Games,8,34.99,279.92,Central
+2024-12-30,ELEC004,Smart Watch Pro,Electronics,46,171.2,7875.2,East
+2024-12-30,HOME003,Air Fryer 5.5L,Home & Kitchen,32,129.99,4159.68,Central
+2024-12-30,OFFC003,Notebook Set Premium,Office Supplies,42,18.99,797.58,Central
+2024-12-30,ELEC001,Wireless Bluetooth Headphones,Electronics,31,79.99,2479.69,East
+2024-12-30,FOOD003,Green Tea Collection,Food & Grocery,14,19.99,279.86,West
+2024-12-31,BOOK001,Python Programming Guide,Books,37,44.99,1664.63,North
+2024-12-31,BOOK001,Python Programming Guide,Books,24,39.0,936.0,North
+2024-12-31,TOYS003,Remote Control Car,Toys & Games,2,46.66,93.32,South
+2024-12-31,HOME001,Stainless Steel Coffee Maker,Home & Kitchen,35,89.99,3149.65,Central
+2024-12-31,OFFC004,Wireless Mouse,Office Supplies,26,27.98,727.48,East
+2024-12-31,BOOK003,Mystery Novel Collection,Books,8,24.99,199.92,West
+2024-12-31,CLTH003,Cotton T-Shirt Pack (3),Clothing,30,29.99,899.7,West
+2024-12-31,ELEC003,Portable Power Bank 20000mAh,Electronics,1,49.99,49.99,West
+2024-12-31,BEAU001,Vitamin C Serum,Beauty & Personal Care,39,28.99,1130.61,East
+2024-12-31,SPRT004,Camping Tent 4-Person,Sports & Outdoors,42,149.99,6299.58,South
+2024-12-31,FOOD001,Organic Coffee Beans 1kg,Food & Grocery,13,24.99,324.87,Central
+2024-12-31,BOOK003,Mystery Novel Collection,Books,48,24.99,1199.52,East
+2024-12-31,CLTH003,Cotton T-Shirt Pack (3),Clothing,48,29.99,1439.52,Central

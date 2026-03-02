@@ -1,0 +1,12 @@
+# Part 1: Code Q&A with Bash Tools — dependencies
+# Install from part_01: pip install -r requirements.txt
+# Or from repo root: pip install -r part_01/requirements.txt
+
+# YAML config (routes.yaml, settings.yaml)
+PyYAML>=6.0.0
+
+# LLM backend (QAEngine) — supports OpenAI, Anthropic, Groq, etc. via litellm
+litellm>=1.0.0
+
+# Optional: load .env for API keys (OPENAI_API_KEY, etc.)
+python-dotenv>=1.0.0
